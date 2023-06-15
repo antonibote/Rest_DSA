@@ -52,7 +52,7 @@ public class TiendaActivity extends AppCompatActivity implements RecyclerClickVi
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_tienda);
-        //getidUser();
+        this.getidUser();
 
         recyclerViewItems = findViewById(R.id.my_new_recycler_view);
         recyclerViewItems.setLayoutManager(new LinearLayoutManager(this));

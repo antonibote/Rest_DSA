@@ -55,9 +55,8 @@ public class RecycleViewAdapterFAQ extends RecyclerView.Adapter<RecycleViewAdapt
 
     @Override
     public int getItemCount() {
-        return 0;
+        return faqs.size();
     }
-
 
 }
 

@@ -2705,6 +2705,7 @@ id auto
 id autoComplete
 id autoCompleteToEnd
 id autoCompleteToStart
+id badge_imageview
 id barrier
 id baseline
 id beginOnFirstDraw
@@ -2717,6 +2718,7 @@ id bounceBoth
 id bounceEnd
 id bounceStart
 id buttonAbuse
+id buttonBadges
 id buttonEmpezarPartida
 id buttonLogin
 id buttonPanel
@@ -2961,7 +2963,6 @@ id navigation_header_container
 id never
 id neverCompleteToEnd
 id neverCompleteToStart
-id nivelactual
 id noScroll
 id noState
 id nombreUsuarioLayout
@@ -2998,14 +2999,15 @@ id pin
 id position
 id postLayout
 id price
+id profiletitle
 id progressBar
 id progress_circular
 id progress_horizontal
-id puntos
 id question
 id radio
 id ratio
 id rectangles
+id recyclerviewbadge
 id returnBtn
 id returnBtn2
 id reverseSawtooth
@@ -3086,7 +3088,6 @@ id surname
 id surnameUsuarioLayout
 id surnameUsuariotext
 id tabMode
-id tableLayout
 id tag_accessibility_actions
 id tag_accessibility_clickable_spans
 id tag_accessibility_heading
@@ -3265,6 +3266,8 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout abuse_activity
+layout activity_badges
+layout activity_badgescard
 layout activity_faq
 layout activity_faqcard
 layout activity_itemcard
