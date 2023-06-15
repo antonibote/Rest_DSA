@@ -9,11 +9,11 @@ import android.widget.TextView;
 
 import edu.upc.dsa.restproject.models.Message;
 
-public class RecycleViewAdapterMessage extends RecyclerView.Adapter<RecycleViewAdapterMessage.ViewHolder> {
+public class RecycleViewAdapterNotifications extends RecyclerView.Adapter<RecycleViewAdapterNotifications.ViewHolder> {
     private List<Message> mensajes;
     private RecyclerClickViewListener clickListener;
 
-    public RecycleViewAdapterMessage(List<Message> mensajes, RecyclerClickViewListener clickListener) {
+    public RecycleViewAdapterNotifications(List<Message> mensajes, RecyclerClickViewListener clickListener) {
         this.mensajes = mensajes;
         this.clickListener = clickListener;
     }

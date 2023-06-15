@@ -7,7 +7,7 @@ import edu.upc.dsa.restproject.models.Credentials;
 import edu.upc.dsa.restproject.models.FAQ;
 import edu.upc.dsa.restproject.models.Game;
 import edu.upc.dsa.restproject.models.Item;
-import edu.upc.dsa.restproject.models.User;
+import edu.upc.dsa.restproject.models.Message;
 import edu.upc.dsa.restproject.models.UserRegister;
 import edu.upc.dsa.restproject.models.VOPlayerGameCredencials;
 import edu.upc.dsa.restproject.models.idUser;
@@ -39,4 +39,6 @@ public interface Api {
     Call<idUser> getUser(@Path("idUser") String idUser);
     @GET("game/faqs")
     Call<List<FAQ>> getFAQs();
+    @GET("game/messages")
+    Call<List<Message>> getmessage();
 }

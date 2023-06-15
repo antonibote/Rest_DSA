@@ -15,11 +15,8 @@ import androidx.appcompat.app.AppCompatActivity;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;
 import com.google.firebase.messaging.FirebaseMessaging;
-import com.google.android.material.textfield.TextInputEditText;
+
 import edu.upc.dsa.restproject.models.idUser;
-import retrofit2.Call;
-import retrofit2.Callback;
-import retrofit2.Response;
 
 public class LoginActivity extends AppCompatActivity implements View.OnClickListener {
     public Button buttonEmpezarPartida;
@@ -28,6 +25,7 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
     public Button buttonAbuse;
     public Button FAQButton;
     public Button LanguageButton;
+    public Button MessageButton;
     public ProgressBar progressBar;
     public String idUser;
     Api APIservice;
@@ -70,6 +68,10 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
                 i = new Intent(this, LanguageActivity.class);
                 startActivity(i);
                 break;
+            case R.id.MessageButton:
+                i = new Intent(this, NotificationsActivity.class);
+                startActivity(i);
+                break;
         }
     }
 
@@ -81,6 +83,7 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
         progressBar = findViewById(R.id.progressBar);
         FAQButton = findViewById(R.id.FAQButton);
         LanguageButton = findViewById(R.id.LanguageButton);
+        MessageButton = findViewById(R.id.MessageButton);
 
 
         buttonEmpezarPartida.setOnClickListener(this);
@@ -89,6 +92,7 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
         buttonAbuse.setOnClickListener(this);
         FAQButton.setOnClickListener(this);
         LanguageButton.setOnClickListener(this);
+        MessageButton.setOnClickListener(this);
     }
 
     public void saveVariables(idUser idUser) {

@@ -2616,6 +2616,7 @@ id FAQButton
 id FUNCTION
 id LanguageButton
 id META
+id MessageButton
 id NO_DEBUG
 id SHIFT
 id SHOW_ALL
@@ -2720,6 +2721,7 @@ id buttonEmpezarPartida
 id buttonLogin
 id buttonPanel
 id buttonRegistro
+id buttonUpdateProfile
 id buttonUsuarioRegistrado
 id buttonVerPartidas
 id cache_measures
@@ -2810,6 +2812,7 @@ id edit_query
 id edittext_dropdown_editable
 id edittext_dropdown_noneditable
 id elastic
+id email
 id emailLayout
 id emailtext
 id emailtxt
@@ -2969,6 +2972,7 @@ id north
 id notification_background
 id notification_main_column
 id notification_main_column_container
+id notificationtitle
 id off
 id on
 id onInterceptTouchReturnSwipe
@@ -2981,6 +2985,7 @@ id parent
 id parentPanel
 id parentRelative
 id parent_matrix
+id password
 id password1
 id passwordLayout
 id password_toggle
@@ -3077,6 +3082,7 @@ id stretch
 id submenuarrow
 id submit_area
 id supportScrollUp
+id surname
 id surnameUsuarioLayout
 id surnameUsuariotext
 id tabMode
@@ -3265,6 +3271,8 @@ layout activity_itemcard
 layout activity_language
 layout activity_login
 layout activity_main
+layout activity_notifications
+layout activity_profile
 layout activity_registro
 layout activity_tienda
 layout custom_dialog

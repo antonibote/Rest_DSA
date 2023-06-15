@@ -1,5 +1,4 @@
 package edu.upc.dsa.restproject;
-import android.annotation.SuppressLint;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
@@ -11,15 +10,15 @@ import edu.upc.dsa.restproject.models.Message;
 import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;
-public class MessageActivity extends AppCompatActivity implements RecyclerClickViewListener {
+public class NotificationsActivity extends AppCompatActivity implements RecyclerClickViewListener {
     private Api APIservice;
     private RecyclerView recyclerViewMensajes;
-    private RecycleViewAdapterMessage adapterMessage;
+    private RecycleViewAdapterNotifications adapterMessage;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_message);
+        setContentView(R.layout.activity_notifications);
 
         recyclerViewMensajes = findViewById(R.id.my_new_recycler_view);
         recyclerViewMensajes.setLayoutManager(new LinearLayoutManager(this));
@@ -31,7 +30,7 @@ public class MessageActivity extends AppCompatActivity implements RecyclerClickV
             public void onResponse(Call<List<Message>> call, Response<List<Message>> response) {
                 if (response.isSuccessful()) {
                     List<Message> mensajes = response.body();
-                    adapterMessage = new RecycleViewAdapterMessage(mensajes, MessageActivity.this);
+                    adapterMessage = new RecycleViewAdapterNotifications(mensajes, NotificationsActivity.this);
                     recyclerViewMensajes.setAdapter(adapterMessage);
                 } else {
 
@@ -46,7 +45,7 @@ public class MessageActivity extends AppCompatActivity implements RecyclerClickV
     }
 
     public void returnFunction(View view) {
-        Intent intent = new Intent(MessageActivity.this, LoginActivity.class);
+        Intent intent = new Intent(NotificationsActivity.this, LoginActivity.class);
         startActivity(intent);
     }
 
