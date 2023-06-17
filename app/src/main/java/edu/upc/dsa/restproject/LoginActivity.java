@@ -26,7 +26,7 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
     public Button FAQButton;
     public Button LanguageButton;
     public Button MessageButton;
-    public Button BadgeButton;
+    public Button ProfileButton;
     public ProgressBar progressBar;
     public String idUser;
     Api APIservice;
@@ -71,7 +71,7 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
                 i = new Intent(this, NotificationsActivity.class);
                 startActivity(i);
                 break;
-            case R.id.buttonBadges:
+            case R.id.buttonProfile:
                 saveidUser(idUser);
                 i = new Intent(this,ProfileActivity.class);
                 startActivity(i);
@@ -88,7 +88,7 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
         FAQButton = findViewById(R.id.FAQButton);
         LanguageButton = findViewById(R.id.LanguageButton);
         MessageButton = findViewById(R.id.MessageButton);
-        BadgeButton = findViewById(R.id.buttonBadges);
+        ProfileButton = findViewById(R.id.buttonProfile);
 
 
         buttonEmpezarPartida.setOnClickListener(this);
@@ -98,7 +98,7 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
         FAQButton.setOnClickListener(this);
         LanguageButton.setOnClickListener(this);
         MessageButton.setOnClickListener(this);
-        BadgeButton.setOnClickListener(this);
+        ProfileButton.setOnClickListener(this);
     }
 
     public void saveVariables(idUser idUser) {

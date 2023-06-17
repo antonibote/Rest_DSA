@@ -7,6 +7,7 @@ import edu.upc.dsa.restproject.models.Credentials;
 import edu.upc.dsa.restproject.models.FAQ;
 import edu.upc.dsa.restproject.models.Game;
 import edu.upc.dsa.restproject.models.Insignias;
+import edu.upc.dsa.restproject.models.Inventory;
 import edu.upc.dsa.restproject.models.Item;
 import edu.upc.dsa.restproject.models.Message;
 import edu.upc.dsa.restproject.models.UserRegister;
@@ -44,4 +45,6 @@ public interface Api {
     Call<List<Message>> getmessage();
     @GET("game/badges/{idUser}")
     Call<List<Insignias>> getBadges(@Path("idUser") String idUser);
+    @GET("game/inventory/{idUser}")
+    Call<List<Inventory>> getInventory(@Path("idUser") String idUser);
 }

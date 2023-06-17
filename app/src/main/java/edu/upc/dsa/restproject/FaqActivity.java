@@ -63,6 +63,11 @@ public class FaqActivity extends AppCompatActivity implements RecyclerClickViewL
 
     }
 
+    @Override
+    public void onClick(View view) {
+
+    }
+
     public void returnFunction(View view) {
         Intent intent = new Intent(FaqActivity.this, LoginActivity.class);
         startActivity(intent);

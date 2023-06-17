@@ -4,10 +4,6 @@
         "source": "/Users/tonibote4/.gradle/daemon/7.5/edu.upc.dsa.restproject.app-main-48:/layout/activity_itemcard.xml"
     },
     {
-        "merged": "edu.upc.dsa.restproject.app-merged_res-46:/layout_activity_faqcard.xml.flat",
-        "source": "edu.upc.dsa.restproject.app-main-48:/layout/activity_faqcard.xml"
-    },
-    {
         "merged": "/Users/tonibote4/.gradle/daemon/7.5/edu.upc.dsa.restproject.app-merged_res-46:/layout_activity_registro.xml.flat",
         "source": "/Users/tonibote4/.gradle/daemon/7.5/edu.upc.dsa.restproject.app-main-48:/layout/activity_registro.xml"
     },
@@ -30,6 +26,10 @@
     {
         "merged": "/Users/tonibote4/.gradle/daemon/7.5/edu.upc.dsa.restproject.app-merged_res-46:/layout_activity_tienda.xml.flat",
         "source": "/Users/tonibote4/.gradle/daemon/7.5/edu.upc.dsa.restproject.app-main-48:/layout/activity_tienda.xml"
+    },
+    {
+        "merged": "edu.upc.dsa.restproject.app-merged_res-46:/layout_activity_inventorycards.xml.flat",
+        "source": "edu.upc.dsa.restproject.app-main-48:/layout/activity_inventorycards.xml"
     },
     {
         "merged": "/Users/tonibote4/.gradle/daemon/7.5/edu.upc.dsa.restproject.app-merged_res-46:/mipmap-xxxhdpi_ic_launcher.webp.flat",
@@ -74,6 +74,10 @@
     {
         "merged": "/Users/tonibote4/.gradle/daemon/7.5/edu.upc.dsa.restproject.app-merged_res-46:/layout_activity_badges.xml.flat",
         "source": "/Users/tonibote4/.gradle/daemon/7.5/edu.upc.dsa.restproject.app-main-48:/layout/activity_badges.xml"
+    },
+    {
+        "merged": "edu.upc.dsa.restproject.app-merged_res-46:/layout-port_activity_inventory.xml.flat",
+        "source": "edu.upc.dsa.restproject.app-main-48:/layout-port/activity_inventory.xml"
     },
     {
         "merged": "/Users/tonibote4/.gradle/daemon/7.5/edu.upc.dsa.restproject.app-merged_res-46:/layout_abuse_activity.xml.flat",

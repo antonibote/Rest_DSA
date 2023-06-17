@@ -131,6 +131,11 @@ public class TiendaActivity extends AppCompatActivity implements RecyclerClickVi
         });
     }
 
+    @Override
+    public void onClick(View view) {
+
+    }
+
     public void getidUser(){
         SharedPreferences sharedPreferences = getSharedPreferences("idUser", Context.MODE_PRIVATE);
         this.idUser = sharedPreferences.getString("idUser",null);

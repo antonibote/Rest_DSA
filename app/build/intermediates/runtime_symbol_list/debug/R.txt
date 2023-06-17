@@ -2719,8 +2719,10 @@ int id bounceStart 0x7f08006c
 int id buttonAbuse 0x7f08006d
 int id buttonBadges 0x7f08006e
 int id buttonEmpezarPartida 0x7f08006f
+int id buttonInventory 0x7f080232
 int id buttonLogin 0x7f080070
 int id buttonPanel 0x7f080071
+int id buttonProfile 0x7f080233
 int id buttonRegistro 0x7f080072
 int id buttonUpdateProfile 0x7f080073
 int id buttonUsuarioRegistrado 0x7f080074
@@ -2869,6 +2871,7 @@ int id image 0x7f080102
 int id immediateStop 0x7f080103
 int id included 0x7f080104
 int id info 0x7f080105
+int id inventorytitle 0x7f080234
 int id invisible 0x7f080106
 int id inward 0x7f080107
 int id italic 0x7f080108
@@ -3007,6 +3010,7 @@ int id radio 0x7f08018c
 int id ratio 0x7f08018d
 int id rectangles 0x7f08018e
 int id recyclerviewbadge 0x7f08018f
+int id recyclerviewinventory 0x7f080235
 int id returnBtn 0x7f080190
 int id returnBtn2 0x7f080191
 int id reverseSawtooth 0x7f080192
@@ -3269,6 +3273,8 @@ int layout activity_badges 0x7f0b001e
 int layout activity_badgescard 0x7f0b001f
 int layout activity_faq 0x7f0b0020
 int layout activity_faqcard 0x7f0b0021
+int layout activity_inventory 0x7f0b0085
+int layout activity_inventorycards 0x7f0b0086
 int layout activity_itemcard 0x7f0b0022
 int layout activity_language 0x7f0b0023
 int layout activity_login 0x7f0b0024

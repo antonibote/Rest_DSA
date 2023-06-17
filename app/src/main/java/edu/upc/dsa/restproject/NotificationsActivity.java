@@ -52,4 +52,9 @@ public class NotificationsActivity extends AppCompatActivity implements Recycler
     @Override
     public void recyclerViewListClicked(int position) {
     }
+
+    @Override
+    public void onClick(View view) {
+
+    }
 }

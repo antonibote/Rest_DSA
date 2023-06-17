@@ -28,7 +28,9 @@ id badge_imageview
 id buttonAbuse
 id buttonBadges
 id buttonEmpezarPartida
+id buttonInventory
 id buttonLogin
+id buttonProfile
 id buttonRegistro
 id buttonUpdateProfile
 id buttonUsuarioRegistrado
@@ -46,6 +48,7 @@ id emailtxt
 id englishlanguage
 id faqtitle
 id idItem
+id inventorytitle
 id itemImage
 id linea
 id my_new_imageView
@@ -63,6 +66,7 @@ id profiletitle
 id progressBar
 id question
 id recyclerviewbadge
+id recyclerviewinventory
 id returnBtn
 id returnBtn2
 id shopButton
@@ -85,6 +89,8 @@ layout activity_badges
 layout activity_badgescard
 layout activity_faq
 layout activity_faqcard
+layout activity_inventory
+layout activity_inventorycards
 layout activity_itemcard
 layout activity_language
 layout activity_login

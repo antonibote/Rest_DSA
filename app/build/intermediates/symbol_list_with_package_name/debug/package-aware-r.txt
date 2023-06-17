@@ -2720,8 +2720,10 @@ id bounceStart
 id buttonAbuse
 id buttonBadges
 id buttonEmpezarPartida
+id buttonInventory
 id buttonLogin
 id buttonPanel
+id buttonProfile
 id buttonRegistro
 id buttonUpdateProfile
 id buttonUsuarioRegistrado
@@ -2870,6 +2872,7 @@ id image
 id immediateStop
 id included
 id info
+id inventorytitle
 id invisible
 id inward
 id italic
@@ -3008,6 +3011,7 @@ id radio
 id ratio
 id rectangles
 id recyclerviewbadge
+id recyclerviewinventory
 id returnBtn
 id returnBtn2
 id reverseSawtooth
@@ -3270,6 +3274,8 @@ layout activity_badges
 layout activity_badgescard
 layout activity_faq
 layout activity_faqcard
+layout activity_inventory
+layout activity_inventorycards
 layout activity_itemcard
 layout activity_language
 layout activity_login

@@ -5,58 +5,79 @@ import android.content.Context;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
+import android.widget.Button;
 
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.recyclerview.widget.LinearLayoutManager;
-import androidx.recyclerview.widget.RecyclerView;
 
-import java.io.IOException;
-import java.util.List;
+public class ProfileActivity extends AppCompatActivity implements View.OnClickListener {
 
-import edu.upc.dsa.restproject.models.Insignias;
-import retrofit2.Call;
-
-public class ProfileActivity extends AppCompatActivity implements RecyclerClickViewListener {
-
+    public Button BadgesButton;
+    public Button InventoryButton;
+    public String idUser;
     Api APIservice;
-    String idUser;
-    String name;
-    String image;
-    public List<Insignias> userBadges;
-    private RecyclerViewAdapterBadges adapterBadges;
-    private RecyclerView recyclerViewBadges;
 
-    @SuppressLint("MissingInflatedId")
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_badges);
+        setContentView(R.layout.activity_profile);
+
         this.getIdUser();
-
-        recyclerViewBadges = findViewById(R.id.recyclerviewbadge);
-        recyclerViewBadges.setLayoutManager(new LinearLayoutManager(this));
-
-        APIservice = RetrofitClient.getInstance().getMyApi();
-        Call<List<Insignias>> call = APIservice.getBadges(this.idUser);
-        try {
-            adapterBadges = new RecyclerViewAdapterBadges(call.execute().body(), this);
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-        recyclerViewBadges.setAdapter(adapterBadges);
+        this.initializeViews();
     }
-    public void returnFunction(View view) {
-        Intent intent = new Intent(ProfileActivity.this, LoginActivity.class);
-        startActivity(intent);
+    @SuppressLint("NonConstantResourceId")
+    @Override
+    public void onClick(View view) {
+        Intent i;
+        switch (view.getId()) {
+            case R.id.buttonInventory:
+                saveidUser(idUser);
+                i = new Intent(this, InventoryActivity.class);
+                startActivity(i);
+                break;
+            case R.id.buttonBadges:
+                saveidUser(idUser);
+                i = new Intent(this,BadgesActivity.class);
+                startActivity(i);
+                break;
+        }
+    }
+
+    public void initializeViews() {
+        InventoryButton = findViewById(R.id.buttonInventory);
+        BadgesButton = findViewById(R.id.buttonBadges);
+
+        BadgesButton.setOnClickListener(this);
+        InventoryButton.setOnClickListener(this);
+    }
+
+    public void saveVariables(edu.upc.dsa.restproject.models.idUser idUser) {
+        SharedPreferences sharedPreferences = getSharedPreferences("idUser", Context.MODE_PRIVATE);
+        SharedPreferences.Editor editor = sharedPreferences.edit();
+        editor.putString("idUser", idUser.getIdUser());
+        Log.i("SAVING: ", idUser.getIdUser());
+        editor.apply();
+    }
+
+    public void saveidUser(String idUser) {
+        SharedPreferences sharedPreferences = getSharedPreferences("idUser", Context.MODE_PRIVATE);
+        SharedPreferences.Editor editor = sharedPreferences.edit();
+        editor.putString("idUser", idUser);
+        Log.i("SAVING: ", idUser);
+        editor.apply();
+    }
+
+    public void returnFunction(View view){
+        Intent intentRegister = new Intent(ProfileActivity.this, LoginActivity.class);
+        ProfileActivity.this.startActivity(intentRegister);
     }
     public void getIdUser(){
         SharedPreferences sharedPreferences = getSharedPreferences("idUser", Context.MODE_PRIVATE);
         this.idUser = sharedPreferences.getString("idUser", null);
     }
-    @Override
-    public void recyclerViewListClicked(int position) {
 
-    }
+
 
 }
