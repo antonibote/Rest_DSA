@@ -10,6 +10,7 @@ import edu.upc.dsa.restproject.models.Insignias;
 import edu.upc.dsa.restproject.models.Inventory;
 import edu.upc.dsa.restproject.models.Item;
 import edu.upc.dsa.restproject.models.Message;
+import edu.upc.dsa.restproject.models.UpdateInfo;
 import edu.upc.dsa.restproject.models.UserRegister;
 import edu.upc.dsa.restproject.models.VOPlayerGameCredencials;
 import edu.upc.dsa.restproject.models.idUser;
@@ -47,4 +48,6 @@ public interface Api {
     Call<List<Insignias>> getBadges(@Path("idUser") String idUser);
     @GET("game/inventory/{idUser}")
     Call<List<Inventory>> getInventory(@Path("idUser") String idUser);
+    @PUT("game/update")
+    Call<UpdateInfo> update(@Body UpdateInfo info);
 }

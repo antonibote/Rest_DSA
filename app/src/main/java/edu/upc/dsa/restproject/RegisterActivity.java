@@ -77,10 +77,6 @@ public class RegisterActivity extends AppCompatActivity {
     }
 
     public void btnClicked(View view) throws IOException {
-        /**if(view== buttonLogin){
-            Intent intentRegister = new Intent(RegisterActivity.this, LoginActivity.class);
-            RegisterActivity.this.startActivity(intentRegister);
-        }**/
         if(view== buttonRegister){
             Intent intentRegister = new Intent(RegisterActivity.this, MainActivity.class);
             RegisterActivity.this.startActivity(intentRegister);
