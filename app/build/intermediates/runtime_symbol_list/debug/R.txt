@@ -3279,6 +3279,7 @@ int layout activity_itemcard 0x7f0b0024
 int layout activity_language 0x7f0b0025
 int layout activity_login 0x7f0b0026
 int layout activity_main 0x7f0b0027
+int layout activity_notificationcard 0x7f0b0087
 int layout activity_notifications 0x7f0b0028
 int layout activity_profile 0x7f0b0029
 int layout activity_registro 0x7f0b002a

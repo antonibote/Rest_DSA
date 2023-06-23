@@ -26,7 +26,7 @@ public class NotificationsActivity extends AppCompatActivity implements Recycler
         recyclerViewMensajes.setLayoutManager(new LinearLayoutManager(this));
 
         APIservice = RetrofitClient.getInstance().getMyApi();
-        Call<List<Message>> call = APIservice.getmessage();
+        Call<List<Message>> call = APIservice.getMessages();
         try {
             adapterMessage = new RecycleViewAdapterNotifications(call.execute().body(), this);
         } catch (IOException e) {

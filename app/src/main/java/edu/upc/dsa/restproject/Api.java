@@ -43,7 +43,7 @@ public interface Api {
     @GET("game/faqs")
     Call<List<FAQ>> getFAQs();
     @GET("game/messages")
-    Call<List<Message>> getmessage();
+    Call<List<Message>> getMessages();
     @GET("game/badges/{idUser}")
     Call<List<Insignias>> getBadges(@Path("idUser") String idUser);
     @GET("game/inventory/{idUser}")

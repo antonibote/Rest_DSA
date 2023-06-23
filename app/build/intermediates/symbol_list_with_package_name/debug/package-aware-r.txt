@@ -3280,6 +3280,7 @@ layout activity_itemcard
 layout activity_language
 layout activity_login
 layout activity_main
+layout activity_notificationcard
 layout activity_notifications
 layout activity_profile
 layout activity_registro

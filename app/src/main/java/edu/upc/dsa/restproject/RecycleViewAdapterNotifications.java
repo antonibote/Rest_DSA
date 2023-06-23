@@ -37,7 +37,7 @@ public class RecycleViewAdapterNotifications extends RecyclerView.Adapter<Recycl
     @NonNull
     @Override
     public ViewHolder onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {
-        View view = LayoutInflater.from(parent.getContext()).inflate(R.layout.activity_notifications, parent, false);
+        View view = LayoutInflater.from(parent.getContext()).inflate(R.layout.activity_notificationcard, parent, false);
         ViewHolder viewHolder = new ViewHolder(view);
         return viewHolder;
     }
