@@ -8,50 +8,47 @@ import android.view.View;
 import android.widget.TextView;
 
 import edu.upc.dsa.restproject.models.Message;
-
 public class RecycleViewAdapterNotifications extends RecyclerView.Adapter<RecycleViewAdapterNotifications.ViewHolder> {
-    private List<Message> mensajes;
-    private RecyclerClickViewListener clickListener;
 
-    public RecycleViewAdapterNotifications(List<Message> mensajes, RecyclerClickViewListener clickListener) {
-        this.mensajes = mensajes;
-        this.clickListener = clickListener;
-    }
+    public List<Message> messages;
+    private static RecyclerClickViewListener listener;
 
-    @NonNull
-    @Override
-    public ViewHolder onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {
-        View view = LayoutInflater.from(parent.getContext()).inflate(android.R.layout.simple_list_item_1, parent, false);
-        return new ViewHolder(view);
-    }
+    public static class ViewHolder extends RecyclerView.ViewHolder implements View.OnClickListener {
 
-    @Override
-    public void onBindViewHolder(@NonNull ViewHolder holder, int position) {
-        Message message = mensajes.get(position);
-        holder.textViewMessage.setText(message.getMessage());
-    }
-
-    @Override
-    public int getItemCount() {
-        return mensajes.size();
-    }
-
-    public class ViewHolder extends RecyclerView.ViewHolder implements View.OnClickListener {
-
-        public TextView textViewMessage;
+        public TextView message;
 
         public ViewHolder(@NonNull View itemView) {
             super(itemView);
-            textViewMessage = itemView.findViewById(android.R.id.text1);
+            message = itemView.findViewById(androidx.appcompat.R.id.message);
             itemView.setOnClickListener(this);
         }
 
         @Override
         public void onClick(View view) {
-            int position = getAdapterPosition();
-            if (position != RecyclerView.NO_POSITION) {
-                clickListener.recyclerViewListClicked(position);
-            }
+            listener.recyclerViewListClicked(this.getLayoutPosition());
         }
+    }
+
+    public RecycleViewAdapterNotifications(List<Message> messages, RecyclerClickViewListener listener) {
+        this.messages = messages;
+        this.listener = listener;
+    }
+
+    @NonNull
+    @Override
+    public ViewHolder onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {
+        View view = LayoutInflater.from(parent.getContext()).inflate(R.layout.activity_notifications, parent, false);
+        ViewHolder viewHolder = new ViewHolder(view);
+        return viewHolder;
+    }
+
+    @Override
+    public void onBindViewHolder(@NonNull ViewHolder holder, int position) {
+        holder.message.setText(messages.get(position).getMessage());
+    }
+
+    @Override
+    public int getItemCount() {
+        return messages.size();
     }
 }

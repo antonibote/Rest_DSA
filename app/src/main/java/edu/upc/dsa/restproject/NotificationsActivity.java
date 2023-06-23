@@ -5,13 +5,15 @@ import android.view.View;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
+
+import java.io.IOException;
 import java.util.List;
 import edu.upc.dsa.restproject.models.Message;
 import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;
 public class NotificationsActivity extends AppCompatActivity implements RecyclerClickViewListener {
-    private Api APIservice;
+    Api APIservice;
     private RecyclerView recyclerViewMensajes;
     private RecycleViewAdapterNotifications adapterMessage;
 
@@ -25,23 +27,12 @@ public class NotificationsActivity extends AppCompatActivity implements Recycler
 
         APIservice = RetrofitClient.getInstance().getMyApi();
         Call<List<Message>> call = APIservice.getmessage();
-        call.enqueue(new Callback<List<Message>>() {
-            @Override
-            public void onResponse(Call<List<Message>> call, Response<List<Message>> response) {
-                if (response.isSuccessful()) {
-                    List<Message> mensajes = response.body();
-                    adapterMessage = new RecycleViewAdapterNotifications(mensajes, NotificationsActivity.this);
-                    recyclerViewMensajes.setAdapter(adapterMessage);
-                } else {
-
-                }
-            }
-
-            @Override
-            public void onFailure(Call<List<Message>> call, Throwable t) {
-
-            }
-        });
+        try {
+            adapterMessage = new RecycleViewAdapterNotifications(call.execute().body(), this);
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        recyclerViewMensajes.setAdapter(adapterMessage);
     }
 
     public void returnFunction(View view) {
