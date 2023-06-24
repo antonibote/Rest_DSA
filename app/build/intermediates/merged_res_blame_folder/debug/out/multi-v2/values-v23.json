@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "edu.upc.dsa.restproject.app-mergeDebugResources-44:/values-v23/values-v23.xml",
+            "outputFile": "edu.upc.dsa.restproject.app-mergeDebugResources-40:/values-v23/values-v23.xml",
             "map": [
                 {
                     "source": "/Users/tonibote4/.gradle/caches/transforms-3/1f624a3ec658e1a90eb17b72d8f4e5aa/transformed/cardview-1.0.0/res/values-v23/values-v23.xml",

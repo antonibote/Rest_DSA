@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "edu.upc.dsa.restproject.app-mergeDebugResources-44:/values-v21/values-v21.xml",
+            "outputFile": "edu.upc.dsa.restproject.app-mergeDebugResources-40:/values-v21/values-v21.xml",
             "map": [
                 {
                     "source": "/Users/tonibote4/.gradle/caches/transforms-3/f8ca33f57cc610a0b1ed31d0cc4084bb/transformed/core-1.8.0/res/values-v21/values-v21.xml",

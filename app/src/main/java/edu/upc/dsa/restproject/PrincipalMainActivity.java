@@ -1,6 +1,6 @@
 package edu.upc.dsa.restproject;
 
-import static com.google.firebase.messaging.Constants.MessageNotificationKeys.TAG;
+
 
 import static edu.upc.dsa.restproject.MainActivity.TEXT1;
 import static edu.upc.dsa.restproject.MainActivity.TEXT2;

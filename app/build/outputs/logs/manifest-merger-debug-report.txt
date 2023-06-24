@@ -15,19 +15,7 @@ MERGED from [androidx.cardview:cardview:1.0.0] /Users/tonibote4/.gradle/caches/t
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/tonibote4/.gradle/caches/transforms-3/066f493cb7d990cafa5df1ece5ebc364/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.recyclerview:recyclerview:1.2.1] /Users/tonibote4/.gradle/caches/transforms-3/606b8924aff98f7d9ce52a03c79fa897/transformed/recyclerview-1.2.1/AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.ar:core:1.30.0] /Users/tonibote4/.gradle/caches/transforms-3/d6e838ff9c31583bb18618b533a5d1fd/transformed/core-1.30.0/AndroidManifest.xml:17:1-49:12
-MERGED from [com.google.firebase:firebase-messaging:23.1.2] /Users/tonibote4/.gradle/caches/transforms-3/dc447fe72cfb304809fdf0c10cf91a03/transformed/firebase-messaging-23.1.2/AndroidManifest.xml:17:1-61:12
 MERGED from [androidx.fragment:fragment-ktx:1.5.2] /Users/tonibote4/.gradle/caches/transforms-3/15088c09809a639cb452d98ca26f731e/transformed/fragment-ktx-1.5.2/AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.firebase:firebase-datatransport:18.1.7] /Users/tonibote4/.gradle/caches/transforms-3/1c7c0612bcee649961cc00f126d72e22/transformed/firebase-datatransport-18.1.7/AndroidManifest.xml:15:1-33:12
-MERGED from [com.google.firebase:firebase-installations:17.1.3] /Users/tonibote4/.gradle/caches/transforms-3/0625461a59256808edb5ca204ddd6b0c/transformed/firebase-installations-17.1.3/AndroidManifest.xml:2:1-23:12
-MERGED from [com.google.firebase:firebase-common:20.3.1] /Users/tonibote4/.gradle/caches/transforms-3/74c89106ff7cc8d2d659a00ba65f5143/transformed/firebase-common-20.3.1/AndroidManifest.xml:15:1-39:12
-MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/tonibote4/.gradle/caches/transforms-3/5466824ca35740d3c6aeb4c5d463f1b2/transformed/play-services-base-18.0.1/AndroidManifest.xml:16:1-24:12
-MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/tonibote4/.gradle/caches/transforms-3/baff310fe3dc3b9a919dc4a2341a52ad/transformed/play-services-stats-17.0.2/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/tonibote4/.gradle/caches/transforms-3/e3515ee6df56e032be69dcc1fcd8fbf4/transformed/firebase-measurement-connector-19.0.0/AndroidManifest.xml:17:1-25:12
-MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/tonibote4/.gradle/caches/transforms-3/0744ed7ab639444561d3d7056a968579/transformed/firebase-iid-interop-17.1.0/AndroidManifest.xml:2:1-10:12
-MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/tonibote4/.gradle/caches/transforms-3/eaeb12ca3897f83fa587a3cfaf8ffdd7/transformed/play-services-cloud-messaging-17.0.1/AndroidManifest.xml:2:1-13:12
-MERGED from [com.google.firebase:firebase-installations-interop:17.1.0] /Users/tonibote4/.gradle/caches/transforms-3/95f0858eb9910b686f43deb3c942a5aa/transformed/firebase-installations-interop-17.1.0/AndroidManifest.xml:15:1-22:12
-MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/tonibote4/.gradle/caches/transforms-3/bcc1d1871228076ad7d47426be0b487c/transformed/play-services-tasks-18.0.2/AndroidManifest.xml:2:1-6:12
-MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/tonibote4/.gradle/caches/transforms-3/28a741edc80a99d6fd4d8140326ebccf/transformed/play-services-basement-18.1.0/AndroidManifest.xml:16:1-26:12
 MERGED from [androidx.fragment:fragment:1.5.2] /Users/tonibote4/.gradle/caches/transforms-3/d9c643ef57c3a7d89d6be7222b59c572/transformed/fragment-1.5.2/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.navigation:navigation-runtime:2.5.2] /Users/tonibote4/.gradle/caches/transforms-3/0821eaca2e6c62c690c5f1bb4a42bc75/transformed/navigation-runtime-2.5.2/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.activity:activity-ktx:1.5.1] /Users/tonibote4/.gradle/caches/transforms-3/c5906ef06e8fe1d08fe0df2a19c9516b/transformed/activity-ktx-1.5.1/AndroidManifest.xml:17:1-24:12
@@ -58,11 +46,6 @@ MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] /Users/tonibote4/.g
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/tonibote4/.gradle/caches/transforms-3/34be6e117e2e06ff01a6121271053230/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /Users/tonibote4/.gradle/caches/transforms-3/e9dc35f53d8157076f4fe97a9b5e8a6a/transformed/savedstate-ktx-1.2.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/tonibote4/.gradle/caches/transforms-3/7180b5a3b50cad88028eaa81f8b17fa7/transformed/savedstate-1.2.0/AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.firebase:firebase-components:17.1.0] /Users/tonibote4/.gradle/caches/transforms-3/c6641f2085dddc4a61d68074a1319d24/transformed/firebase-components-17.1.0/AndroidManifest.xml:15:1-22:12
-MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/tonibote4/.gradle/caches/transforms-3/8c6712bcf23b93b22b73258f9fbc9b0c/transformed/transport-backend-cct-3.1.8/AndroidManifest.xml:15:1-37:12
-MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/tonibote4/.gradle/caches/transforms-3/f7a08f703a491652b0d7e56b12c09b4a/transformed/transport-runtime-3.1.8/AndroidManifest.xml:15:1-41:12
-MERGED from [com.google.android.datatransport:transport-api:3.0.0] /Users/tonibote4/.gradle/caches/transforms-3/74b84e97cc6bb196b7c9e1504e44fa81/transformed/transport-api-3.0.0/AndroidManifest.xml:15:1-22:12
-MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /Users/tonibote4/.gradle/caches/transforms-3/1f3aa6171425f7d198bdbfe216e7b16e/transformed/firebase-encoders-json-18.0.0/AndroidManifest.xml:15:1-23:12
 MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/tonibote4/.gradle/caches/transforms-3/e6dc352309f6d773a89fb4d56f13b49d/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
 MERGED from [androidx.tracing:tracing:1.0.0] /Users/tonibote4/.gradle/caches/transforms-3/be6d87ce73c1cf72008410442969a421/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/tonibote4/.gradle/caches/transforms-3/4b621581b14be943fef7e9025808a5ef/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
@@ -97,12 +80,6 @@ INJECTED from /Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml
 		ADDED from /Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
 ADDED from /Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:4:5-67
-MERGED from [com.google.firebase:firebase-installations:17.1.3] /Users/tonibote4/.gradle/caches/transforms-3/0625461a59256808edb5ca204ddd6b0c/transformed/firebase-installations-17.1.3/AndroidManifest.xml:10:5-67
-MERGED from [com.google.firebase:firebase-installations:17.1.3] /Users/tonibote4/.gradle/caches/transforms-3/0625461a59256808edb5ca204ddd6b0c/transformed/firebase-installations-17.1.3/AndroidManifest.xml:10:5-67
-MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/tonibote4/.gradle/caches/transforms-3/eaeb12ca3897f83fa587a3cfaf8ffdd7/transformed/play-services-cloud-messaging-17.0.1/AndroidManifest.xml:8:5-67
-MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/tonibote4/.gradle/caches/transforms-3/eaeb12ca3897f83fa587a3cfaf8ffdd7/transformed/play-services-cloud-messaging-17.0.1/AndroidManifest.xml:8:5-67
-MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/tonibote4/.gradle/caches/transforms-3/8c6712bcf23b93b22b73258f9fbc9b0c/transformed/transport-backend-cct-3.1.8/AndroidManifest.xml:25:5-67
-MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/tonibote4/.gradle/caches/transforms-3/8c6712bcf23b93b22b73258f9fbc9b0c/transformed/transport-backend-cct-3.1.8/AndroidManifest.xml:25:5-67
 	android:name
 		ADDED from /Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:4:22-64
 application
@@ -115,26 +92,6 @@ MERGED from [com.squareup.picasso:picasso:2.71828] /Users/tonibote4/.gradle/cach
 MERGED from [com.squareup.picasso:picasso:2.71828] /Users/tonibote4/.gradle/caches/transforms-3/606ed2428811195b8467773399e613aa/transformed/picasso-2.71828/AndroidManifest.xml:7:5-12:19
 MERGED from [com.google.ar:core:1.30.0] /Users/tonibote4/.gradle/caches/transforms-3/d6e838ff9c31583bb18618b533a5d1fd/transformed/core-1.30.0/AndroidManifest.xml:33:5-47:19
 MERGED from [com.google.ar:core:1.30.0] /Users/tonibote4/.gradle/caches/transforms-3/d6e838ff9c31583bb18618b533a5d1fd/transformed/core-1.30.0/AndroidManifest.xml:33:5-47:19
-MERGED from [com.google.firebase:firebase-messaging:23.1.2] /Users/tonibote4/.gradle/caches/transforms-3/dc447fe72cfb304809fdf0c10cf91a03/transformed/firebase-messaging-23.1.2/AndroidManifest.xml:30:5-59:19
-MERGED from [com.google.firebase:firebase-messaging:23.1.2] /Users/tonibote4/.gradle/caches/transforms-3/dc447fe72cfb304809fdf0c10cf91a03/transformed/firebase-messaging-23.1.2/AndroidManifest.xml:30:5-59:19
-MERGED from [com.google.firebase:firebase-datatransport:18.1.7] /Users/tonibote4/.gradle/caches/transforms-3/1c7c0612bcee649961cc00f126d72e22/transformed/firebase-datatransport-18.1.7/AndroidManifest.xml:23:5-31:19
-MERGED from [com.google.firebase:firebase-datatransport:18.1.7] /Users/tonibote4/.gradle/caches/transforms-3/1c7c0612bcee649961cc00f126d72e22/transformed/firebase-datatransport-18.1.7/AndroidManifest.xml:23:5-31:19
-MERGED from [com.google.firebase:firebase-installations:17.1.3] /Users/tonibote4/.gradle/caches/transforms-3/0625461a59256808edb5ca204ddd6b0c/transformed/firebase-installations-17.1.3/AndroidManifest.xml:13:5-21:19
-MERGED from [com.google.firebase:firebase-installations:17.1.3] /Users/tonibote4/.gradle/caches/transforms-3/0625461a59256808edb5ca204ddd6b0c/transformed/firebase-installations-17.1.3/AndroidManifest.xml:13:5-21:19
-MERGED from [com.google.firebase:firebase-common:20.3.1] /Users/tonibote4/.gradle/caches/transforms-3/74c89106ff7cc8d2d659a00ba65f5143/transformed/firebase-common-20.3.1/AndroidManifest.xml:24:5-37:19
-MERGED from [com.google.firebase:firebase-common:20.3.1] /Users/tonibote4/.gradle/caches/transforms-3/74c89106ff7cc8d2d659a00ba65f5143/transformed/firebase-common-20.3.1/AndroidManifest.xml:24:5-37:19
-MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/tonibote4/.gradle/caches/transforms-3/5466824ca35740d3c6aeb4c5d463f1b2/transformed/play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
-MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/tonibote4/.gradle/caches/transforms-3/5466824ca35740d3c6aeb4c5d463f1b2/transformed/play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
-MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/tonibote4/.gradle/caches/transforms-3/baff310fe3dc3b9a919dc4a2341a52ad/transformed/play-services-stats-17.0.2/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/tonibote4/.gradle/caches/transforms-3/baff310fe3dc3b9a919dc4a2341a52ad/transformed/play-services-stats-17.0.2/AndroidManifest.xml:7:5-20
-MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/tonibote4/.gradle/caches/transforms-3/e3515ee6df56e032be69dcc1fcd8fbf4/transformed/firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
-MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/tonibote4/.gradle/caches/transforms-3/e3515ee6df56e032be69dcc1fcd8fbf4/transformed/firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
-MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/tonibote4/.gradle/caches/transforms-3/0744ed7ab639444561d3d7056a968579/transformed/firebase-iid-interop-17.1.0/AndroidManifest.xml:7:5-8:19
-MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/tonibote4/.gradle/caches/transforms-3/0744ed7ab639444561d3d7056a968579/transformed/firebase-iid-interop-17.1.0/AndroidManifest.xml:7:5-8:19
-MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/tonibote4/.gradle/caches/transforms-3/bcc1d1871228076ad7d47426be0b487c/transformed/play-services-tasks-18.0.2/AndroidManifest.xml:5:5-20
-MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/tonibote4/.gradle/caches/transforms-3/bcc1d1871228076ad7d47426be0b487c/transformed/play-services-tasks-18.0.2/AndroidManifest.xml:5:5-20
-MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/tonibote4/.gradle/caches/transforms-3/28a741edc80a99d6fd4d8140326ebccf/transformed/play-services-basement-18.1.0/AndroidManifest.xml:20:5-24:19
-MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/tonibote4/.gradle/caches/transforms-3/28a741edc80a99d6fd4d8140326ebccf/transformed/play-services-basement-18.1.0/AndroidManifest.xml:20:5-24:19
 MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/tonibote4/.gradle/caches/transforms-3/791b39fe68826e8543c46f2d7f8b152e/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
 MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/tonibote4/.gradle/caches/transforms-3/791b39fe68826e8543c46f2d7f8b152e/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
 MERGED from [androidx.window:window:1.0.0] /Users/tonibote4/.gradle/caches/transforms-3/8f9220d66762372c6aa1e02e07b4f277/transformed/window-1.0.0/AndroidManifest.xml:24:5-31:19
@@ -143,10 +100,6 @@ MERGED from [androidx.core:core:1.8.0] /Users/tonibote4/.gradle/caches/transform
 MERGED from [androidx.core:core:1.8.0] /Users/tonibote4/.gradle/caches/transforms-3/f8ca33f57cc610a0b1ed31d0cc4084bb/transformed/core-1.8.0/AndroidManifest.xml:24:5-89
 MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/tonibote4/.gradle/caches/transforms-3/86041ab2b0d2128b301212662b855cec/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:25:5-35:19
 MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/tonibote4/.gradle/caches/transforms-3/86041ab2b0d2128b301212662b855cec/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:25:5-35:19
-MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/tonibote4/.gradle/caches/transforms-3/8c6712bcf23b93b22b73258f9fbc9b0c/transformed/transport-backend-cct-3.1.8/AndroidManifest.xml:27:5-35:19
-MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/tonibote4/.gradle/caches/transforms-3/8c6712bcf23b93b22b73258f9fbc9b0c/transformed/transport-backend-cct-3.1.8/AndroidManifest.xml:27:5-35:19
-MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/tonibote4/.gradle/caches/transforms-3/f7a08f703a491652b0d7e56b12c09b4a/transformed/transport-runtime-3.1.8/AndroidManifest.xml:25:5-39:19
-MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/tonibote4/.gradle/caches/transforms-3/f7a08f703a491652b0d7e56b12c09b4a/transformed/transport-runtime-3.1.8/AndroidManifest.xml:25:5-39:19
 MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/tonibote4/.gradle/caches/transforms-3/e6dc352309f6d773a89fb4d56f13b49d/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
 MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/tonibote4/.gradle/caches/transforms-3/e6dc352309f6d773a89fb4d56f13b49d/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/tonibote4/.gradle/caches/transforms-3/4b621581b14be943fef7e9025808a5ef/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
@@ -315,32 +268,8 @@ MERGED from [androidx.recyclerview:recyclerview:1.2.1] /Users/tonibote4/.gradle/
 MERGED from [androidx.recyclerview:recyclerview:1.2.1] /Users/tonibote4/.gradle/caches/transforms-3/606b8924aff98f7d9ce52a03c79fa897/transformed/recyclerview-1.2.1/AndroidManifest.xml:20:5-22:41
 MERGED from [com.google.ar:core:1.30.0] /Users/tonibote4/.gradle/caches/transforms-3/d6e838ff9c31583bb18618b533a5d1fd/transformed/core-1.30.0/AndroidManifest.xml:25:5-27:41
 MERGED from [com.google.ar:core:1.30.0] /Users/tonibote4/.gradle/caches/transforms-3/d6e838ff9c31583bb18618b533a5d1fd/transformed/core-1.30.0/AndroidManifest.xml:25:5-27:41
-MERGED from [com.google.firebase:firebase-messaging:23.1.2] /Users/tonibote4/.gradle/caches/transforms-3/dc447fe72cfb304809fdf0c10cf91a03/transformed/firebase-messaging-23.1.2/AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.firebase:firebase-messaging:23.1.2] /Users/tonibote4/.gradle/caches/transforms-3/dc447fe72cfb304809fdf0c10cf91a03/transformed/firebase-messaging-23.1.2/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.fragment:fragment-ktx:1.5.2] /Users/tonibote4/.gradle/caches/transforms-3/15088c09809a639cb452d98ca26f731e/transformed/fragment-ktx-1.5.2/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.fragment:fragment-ktx:1.5.2] /Users/tonibote4/.gradle/caches/transforms-3/15088c09809a639cb452d98ca26f731e/transformed/fragment-ktx-1.5.2/AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.firebase:firebase-datatransport:18.1.7] /Users/tonibote4/.gradle/caches/transforms-3/1c7c0612bcee649961cc00f126d72e22/transformed/firebase-datatransport-18.1.7/AndroidManifest.xml:18:5-20:41
-MERGED from [com.google.firebase:firebase-datatransport:18.1.7] /Users/tonibote4/.gradle/caches/transforms-3/1c7c0612bcee649961cc00f126d72e22/transformed/firebase-datatransport-18.1.7/AndroidManifest.xml:18:5-20:41
-MERGED from [com.google.firebase:firebase-installations:17.1.3] /Users/tonibote4/.gradle/caches/transforms-3/0625461a59256808edb5ca204ddd6b0c/transformed/firebase-installations-17.1.3/AndroidManifest.xml:5:5-7:41
-MERGED from [com.google.firebase:firebase-installations:17.1.3] /Users/tonibote4/.gradle/caches/transforms-3/0625461a59256808edb5ca204ddd6b0c/transformed/firebase-installations-17.1.3/AndroidManifest.xml:5:5-7:41
-MERGED from [com.google.firebase:firebase-common:20.3.1] /Users/tonibote4/.gradle/caches/transforms-3/74c89106ff7cc8d2d659a00ba65f5143/transformed/firebase-common-20.3.1/AndroidManifest.xml:19:5-21:41
-MERGED from [com.google.firebase:firebase-common:20.3.1] /Users/tonibote4/.gradle/caches/transforms-3/74c89106ff7cc8d2d659a00ba65f5143/transformed/firebase-common-20.3.1/AndroidManifest.xml:19:5-21:41
-MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/tonibote4/.gradle/caches/transforms-3/5466824ca35740d3c6aeb4c5d463f1b2/transformed/play-services-base-18.0.1/AndroidManifest.xml:18:5-43
-MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/tonibote4/.gradle/caches/transforms-3/5466824ca35740d3c6aeb4c5d463f1b2/transformed/play-services-base-18.0.1/AndroidManifest.xml:18:5-43
-MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/tonibote4/.gradle/caches/transforms-3/baff310fe3dc3b9a919dc4a2341a52ad/transformed/play-services-stats-17.0.2/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/tonibote4/.gradle/caches/transforms-3/baff310fe3dc3b9a919dc4a2341a52ad/transformed/play-services-stats-17.0.2/AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/tonibote4/.gradle/caches/transforms-3/e3515ee6df56e032be69dcc1fcd8fbf4/transformed/firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/tonibote4/.gradle/caches/transforms-3/e3515ee6df56e032be69dcc1fcd8fbf4/transformed/firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/tonibote4/.gradle/caches/transforms-3/0744ed7ab639444561d3d7056a968579/transformed/firebase-iid-interop-17.1.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/tonibote4/.gradle/caches/transforms-3/0744ed7ab639444561d3d7056a968579/transformed/firebase-iid-interop-17.1.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/tonibote4/.gradle/caches/transforms-3/eaeb12ca3897f83fa587a3cfaf8ffdd7/transformed/play-services-cloud-messaging-17.0.1/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/tonibote4/.gradle/caches/transforms-3/eaeb12ca3897f83fa587a3cfaf8ffdd7/transformed/play-services-cloud-messaging-17.0.1/AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-installations-interop:17.1.0] /Users/tonibote4/.gradle/caches/transforms-3/95f0858eb9910b686f43deb3c942a5aa/transformed/firebase-installations-interop-17.1.0/AndroidManifest.xml:18:5-20:41
-MERGED from [com.google.firebase:firebase-installations-interop:17.1.0] /Users/tonibote4/.gradle/caches/transforms-3/95f0858eb9910b686f43deb3c942a5aa/transformed/firebase-installations-interop-17.1.0/AndroidManifest.xml:18:5-20:41
-MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/tonibote4/.gradle/caches/transforms-3/bcc1d1871228076ad7d47426be0b487c/transformed/play-services-tasks-18.0.2/AndroidManifest.xml:4:5-43
-MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/tonibote4/.gradle/caches/transforms-3/bcc1d1871228076ad7d47426be0b487c/transformed/play-services-tasks-18.0.2/AndroidManifest.xml:4:5-43
-MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/tonibote4/.gradle/caches/transforms-3/28a741edc80a99d6fd4d8140326ebccf/transformed/play-services-basement-18.1.0/AndroidManifest.xml:18:5-43
-MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/tonibote4/.gradle/caches/transforms-3/28a741edc80a99d6fd4d8140326ebccf/transformed/play-services-basement-18.1.0/AndroidManifest.xml:18:5-43
 MERGED from [androidx.fragment:fragment:1.5.2] /Users/tonibote4/.gradle/caches/transforms-3/d9c643ef57c3a7d89d6be7222b59c572/transformed/fragment-1.5.2/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.fragment:fragment:1.5.2] /Users/tonibote4/.gradle/caches/transforms-3/d9c643ef57c3a7d89d6be7222b59c572/transformed/fragment-1.5.2/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.navigation:navigation-runtime:2.5.2] /Users/tonibote4/.gradle/caches/transforms-3/0821eaca2e6c62c690c5f1bb4a42bc75/transformed/navigation-runtime-2.5.2/AndroidManifest.xml:20:5-22:41
@@ -401,16 +330,6 @@ MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /Users/tonibote4/.gradle/
 MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /Users/tonibote4/.gradle/caches/transforms-3/e9dc35f53d8157076f4fe97a9b5e8a6a/transformed/savedstate-ktx-1.2.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/tonibote4/.gradle/caches/transforms-3/7180b5a3b50cad88028eaa81f8b17fa7/transformed/savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/tonibote4/.gradle/caches/transforms-3/7180b5a3b50cad88028eaa81f8b17fa7/transformed/savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.firebase:firebase-components:17.1.0] /Users/tonibote4/.gradle/caches/transforms-3/c6641f2085dddc4a61d68074a1319d24/transformed/firebase-components-17.1.0/AndroidManifest.xml:18:5-20:41
-MERGED from [com.google.firebase:firebase-components:17.1.0] /Users/tonibote4/.gradle/caches/transforms-3/c6641f2085dddc4a61d68074a1319d24/transformed/firebase-components-17.1.0/AndroidManifest.xml:18:5-20:41
-MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/tonibote4/.gradle/caches/transforms-3/8c6712bcf23b93b22b73258f9fbc9b0c/transformed/transport-backend-cct-3.1.8/AndroidManifest.xml:18:5-20:41
-MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/tonibote4/.gradle/caches/transforms-3/8c6712bcf23b93b22b73258f9fbc9b0c/transformed/transport-backend-cct-3.1.8/AndroidManifest.xml:18:5-20:41
-MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/tonibote4/.gradle/caches/transforms-3/f7a08f703a491652b0d7e56b12c09b4a/transformed/transport-runtime-3.1.8/AndroidManifest.xml:18:5-20:41
-MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/tonibote4/.gradle/caches/transforms-3/f7a08f703a491652b0d7e56b12c09b4a/transformed/transport-runtime-3.1.8/AndroidManifest.xml:18:5-20:41
-MERGED from [com.google.android.datatransport:transport-api:3.0.0] /Users/tonibote4/.gradle/caches/transforms-3/74b84e97cc6bb196b7c9e1504e44fa81/transformed/transport-api-3.0.0/AndroidManifest.xml:18:5-20:41
-MERGED from [com.google.android.datatransport:transport-api:3.0.0] /Users/tonibote4/.gradle/caches/transforms-3/74b84e97cc6bb196b7c9e1504e44fa81/transformed/transport-api-3.0.0/AndroidManifest.xml:18:5-20:41
-MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /Users/tonibote4/.gradle/caches/transforms-3/1f3aa6171425f7d198bdbfe216e7b16e/transformed/firebase-encoders-json-18.0.0/AndroidManifest.xml:19:5-21:41
-MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /Users/tonibote4/.gradle/caches/transforms-3/1f3aa6171425f7d198bdbfe216e7b16e/transformed/firebase-encoders-json-18.0.0/AndroidManifest.xml:19:5-21:41
 MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/tonibote4/.gradle/caches/transforms-3/e6dc352309f6d773a89fb4d56f13b49d/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
 MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/tonibote4/.gradle/caches/transforms-3/e6dc352309f6d773a89fb4d56f13b49d/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
 MERGED from [androidx.tracing:tracing:1.0.0] /Users/tonibote4/.gradle/caches/transforms-3/be6d87ce73c1cf72008410442969a421/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
@@ -481,124 +400,6 @@ ADDED from [com.google.ar:core:1.30.0] /Users/tonibote4/.gradle/caches/transform
 		ADDED from [com.google.ar:core:1.30.0] /Users/tonibote4/.gradle/caches/transforms-3/d6e838ff9c31583bb18618b533a5d1fd/transformed/core-1.30.0/AndroidManifest.xml:46:13-77
 	android:name
 		ADDED from [com.google.ar:core:1.30.0] /Users/tonibote4/.gradle/caches/transforms-3/d6e838ff9c31583bb18618b533a5d1fd/transformed/core-1.30.0/AndroidManifest.xml:41:13-62
-uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [com.google.firebase:firebase-messaging:23.1.2] /Users/tonibote4/.gradle/caches/transforms-3/dc447fe72cfb304809fdf0c10cf91a03/transformed/firebase-messaging-23.1.2/AndroidManifest.xml:24:5-79
-MERGED from [com.google.firebase:firebase-installations:17.1.3] /Users/tonibote4/.gradle/caches/transforms-3/0625461a59256808edb5ca204ddd6b0c/transformed/firebase-installations-17.1.3/AndroidManifest.xml:9:5-79
-MERGED from [com.google.firebase:firebase-installations:17.1.3] /Users/tonibote4/.gradle/caches/transforms-3/0625461a59256808edb5ca204ddd6b0c/transformed/firebase-installations-17.1.3/AndroidManifest.xml:9:5-79
-MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/tonibote4/.gradle/caches/transforms-3/eaeb12ca3897f83fa587a3cfaf8ffdd7/transformed/play-services-cloud-messaging-17.0.1/AndroidManifest.xml:7:5-79
-MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/tonibote4/.gradle/caches/transforms-3/eaeb12ca3897f83fa587a3cfaf8ffdd7/transformed/play-services-cloud-messaging-17.0.1/AndroidManifest.xml:7:5-79
-MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/tonibote4/.gradle/caches/transforms-3/8c6712bcf23b93b22b73258f9fbc9b0c/transformed/transport-backend-cct-3.1.8/AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/tonibote4/.gradle/caches/transforms-3/8c6712bcf23b93b22b73258f9fbc9b0c/transformed/transport-backend-cct-3.1.8/AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/tonibote4/.gradle/caches/transforms-3/f7a08f703a491652b0d7e56b12c09b4a/transformed/transport-runtime-3.1.8/AndroidManifest.xml:22:5-79
-MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/tonibote4/.gradle/caches/transforms-3/f7a08f703a491652b0d7e56b12c09b4a/transformed/transport-runtime-3.1.8/AndroidManifest.xml:22:5-79
-	android:name
-		ADDED from [com.google.firebase:firebase-messaging:23.1.2] /Users/tonibote4/.gradle/caches/transforms-3/dc447fe72cfb304809fdf0c10cf91a03/transformed/firebase-messaging-23.1.2/AndroidManifest.xml:24:22-76
-uses-permission#android.permission.POST_NOTIFICATIONS
-ADDED from [com.google.firebase:firebase-messaging:23.1.2] /Users/tonibote4/.gradle/caches/transforms-3/dc447fe72cfb304809fdf0c10cf91a03/transformed/firebase-messaging-23.1.2/AndroidManifest.xml:25:5-77
-	android:name
-		ADDED from [com.google.firebase:firebase-messaging:23.1.2] /Users/tonibote4/.gradle/caches/transforms-3/dc447fe72cfb304809fdf0c10cf91a03/transformed/firebase-messaging-23.1.2/AndroidManifest.xml:25:22-74
-uses-permission#android.permission.WAKE_LOCK
-ADDED from [com.google.firebase:firebase-messaging:23.1.2] /Users/tonibote4/.gradle/caches/transforms-3/dc447fe72cfb304809fdf0c10cf91a03/transformed/firebase-messaging-23.1.2/AndroidManifest.xml:26:5-68
-MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/tonibote4/.gradle/caches/transforms-3/eaeb12ca3897f83fa587a3cfaf8ffdd7/transformed/play-services-cloud-messaging-17.0.1/AndroidManifest.xml:9:5-68
-MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/tonibote4/.gradle/caches/transforms-3/eaeb12ca3897f83fa587a3cfaf8ffdd7/transformed/play-services-cloud-messaging-17.0.1/AndroidManifest.xml:9:5-68
-	android:name
-		ADDED from [com.google.firebase:firebase-messaging:23.1.2] /Users/tonibote4/.gradle/caches/transforms-3/dc447fe72cfb304809fdf0c10cf91a03/transformed/firebase-messaging-23.1.2/AndroidManifest.xml:26:22-65
-uses-permission#com.google.android.c2dm.permission.RECEIVE
-ADDED from [com.google.firebase:firebase-messaging:23.1.2] /Users/tonibote4/.gradle/caches/transforms-3/dc447fe72cfb304809fdf0c10cf91a03/transformed/firebase-messaging-23.1.2/AndroidManifest.xml:28:5-82
-MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/tonibote4/.gradle/caches/transforms-3/eaeb12ca3897f83fa587a3cfaf8ffdd7/transformed/play-services-cloud-messaging-17.0.1/AndroidManifest.xml:11:5-82
-MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/tonibote4/.gradle/caches/transforms-3/eaeb12ca3897f83fa587a3cfaf8ffdd7/transformed/play-services-cloud-messaging-17.0.1/AndroidManifest.xml:11:5-82
-	android:name
-		ADDED from [com.google.firebase:firebase-messaging:23.1.2] /Users/tonibote4/.gradle/caches/transforms-3/dc447fe72cfb304809fdf0c10cf91a03/transformed/firebase-messaging-23.1.2/AndroidManifest.xml:28:22-79
-receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
-ADDED from [com.google.firebase:firebase-messaging:23.1.2] /Users/tonibote4/.gradle/caches/transforms-3/dc447fe72cfb304809fdf0c10cf91a03/transformed/firebase-messaging-23.1.2/AndroidManifest.xml:31:9-38:20
-	android:exported
-		ADDED from [com.google.firebase:firebase-messaging:23.1.2] /Users/tonibote4/.gradle/caches/transforms-3/dc447fe72cfb304809fdf0c10cf91a03/transformed/firebase-messaging-23.1.2/AndroidManifest.xml:33:13-36
-	android:permission
-		ADDED from [com.google.firebase:firebase-messaging:23.1.2] /Users/tonibote4/.gradle/caches/transforms-3/dc447fe72cfb304809fdf0c10cf91a03/transformed/firebase-messaging-23.1.2/AndroidManifest.xml:34:13-73
-	android:name
-		ADDED from [com.google.firebase:firebase-messaging:23.1.2] /Users/tonibote4/.gradle/caches/transforms-3/dc447fe72cfb304809fdf0c10cf91a03/transformed/firebase-messaging-23.1.2/AndroidManifest.xml:32:13-78
-intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
-ADDED from [com.google.firebase:firebase-messaging:23.1.2] /Users/tonibote4/.gradle/caches/transforms-3/dc447fe72cfb304809fdf0c10cf91a03/transformed/firebase-messaging-23.1.2/AndroidManifest.xml:35:13-37:29
-action#com.google.android.c2dm.intent.RECEIVE
-ADDED from [com.google.firebase:firebase-messaging:23.1.2] /Users/tonibote4/.gradle/caches/transforms-3/dc447fe72cfb304809fdf0c10cf91a03/transformed/firebase-messaging-23.1.2/AndroidManifest.xml:36:17-81
-	android:name
-		ADDED from [com.google.firebase:firebase-messaging:23.1.2] /Users/tonibote4/.gradle/caches/transforms-3/dc447fe72cfb304809fdf0c10cf91a03/transformed/firebase-messaging-23.1.2/AndroidManifest.xml:36:25-78
-service#com.google.firebase.messaging.FirebaseMessagingService
-ADDED from [com.google.firebase:firebase-messaging:23.1.2] /Users/tonibote4/.gradle/caches/transforms-3/dc447fe72cfb304809fdf0c10cf91a03/transformed/firebase-messaging-23.1.2/AndroidManifest.xml:44:9-51:19
-	android:exported
-		ADDED from [com.google.firebase:firebase-messaging:23.1.2] /Users/tonibote4/.gradle/caches/transforms-3/dc447fe72cfb304809fdf0c10cf91a03/transformed/firebase-messaging-23.1.2/AndroidManifest.xml:47:13-37
-	android:directBootAware
-		ADDED from [com.google.firebase:firebase-messaging:23.1.2] /Users/tonibote4/.gradle/caches/transforms-3/dc447fe72cfb304809fdf0c10cf91a03/transformed/firebase-messaging-23.1.2/AndroidManifest.xml:46:13-43
-	android:name
-		ADDED from [com.google.firebase:firebase-messaging:23.1.2] /Users/tonibote4/.gradle/caches/transforms-3/dc447fe72cfb304809fdf0c10cf91a03/transformed/firebase-messaging-23.1.2/AndroidManifest.xml:45:13-82
-intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
-ADDED from [com.google.firebase:firebase-messaging:23.1.2] /Users/tonibote4/.gradle/caches/transforms-3/dc447fe72cfb304809fdf0c10cf91a03/transformed/firebase-messaging-23.1.2/AndroidManifest.xml:48:13-50:29
-	android:priority
-		ADDED from [com.google.firebase:firebase-messaging:23.1.2] /Users/tonibote4/.gradle/caches/transforms-3/dc447fe72cfb304809fdf0c10cf91a03/transformed/firebase-messaging-23.1.2/AndroidManifest.xml:48:28-51
-action#com.google.firebase.MESSAGING_EVENT
-ADDED from [com.google.firebase:firebase-messaging:23.1.2] /Users/tonibote4/.gradle/caches/transforms-3/dc447fe72cfb304809fdf0c10cf91a03/transformed/firebase-messaging-23.1.2/AndroidManifest.xml:49:17-78
-	android:name
-		ADDED from [com.google.firebase:firebase-messaging:23.1.2] /Users/tonibote4/.gradle/caches/transforms-3/dc447fe72cfb304809fdf0c10cf91a03/transformed/firebase-messaging-23.1.2/AndroidManifest.xml:49:25-75
-service#com.google.firebase.components.ComponentDiscoveryService
-ADDED from [com.google.firebase:firebase-messaging:23.1.2] /Users/tonibote4/.gradle/caches/transforms-3/dc447fe72cfb304809fdf0c10cf91a03/transformed/firebase-messaging-23.1.2/AndroidManifest.xml:52:9-58:19
-MERGED from [com.google.firebase:firebase-datatransport:18.1.7] /Users/tonibote4/.gradle/caches/transforms-3/1c7c0612bcee649961cc00f126d72e22/transformed/firebase-datatransport-18.1.7/AndroidManifest.xml:24:9-30:19
-MERGED from [com.google.firebase:firebase-datatransport:18.1.7] /Users/tonibote4/.gradle/caches/transforms-3/1c7c0612bcee649961cc00f126d72e22/transformed/firebase-datatransport-18.1.7/AndroidManifest.xml:24:9-30:19
-MERGED from [com.google.firebase:firebase-installations:17.1.3] /Users/tonibote4/.gradle/caches/transforms-3/0625461a59256808edb5ca204ddd6b0c/transformed/firebase-installations-17.1.3/AndroidManifest.xml:14:9-20:19
-MERGED from [com.google.firebase:firebase-installations:17.1.3] /Users/tonibote4/.gradle/caches/transforms-3/0625461a59256808edb5ca204ddd6b0c/transformed/firebase-installations-17.1.3/AndroidManifest.xml:14:9-20:19
-MERGED from [com.google.firebase:firebase-common:20.3.1] /Users/tonibote4/.gradle/caches/transforms-3/74c89106ff7cc8d2d659a00ba65f5143/transformed/firebase-common-20.3.1/AndroidManifest.xml:32:9-36:35
-MERGED from [com.google.firebase:firebase-common:20.3.1] /Users/tonibote4/.gradle/caches/transforms-3/74c89106ff7cc8d2d659a00ba65f5143/transformed/firebase-common-20.3.1/AndroidManifest.xml:32:9-36:35
-	android:exported
-		ADDED from [com.google.firebase:firebase-messaging:23.1.2] /Users/tonibote4/.gradle/caches/transforms-3/dc447fe72cfb304809fdf0c10cf91a03/transformed/firebase-messaging-23.1.2/AndroidManifest.xml:54:13-37
-	tools:targetApi
-		ADDED from [com.google.firebase:firebase-common:20.3.1] /Users/tonibote4/.gradle/caches/transforms-3/74c89106ff7cc8d2d659a00ba65f5143/transformed/firebase-common-20.3.1/AndroidManifest.xml:36:13-32
-	android:directBootAware
-		ADDED from [com.google.firebase:firebase-common:20.3.1] /Users/tonibote4/.gradle/caches/transforms-3/74c89106ff7cc8d2d659a00ba65f5143/transformed/firebase-common-20.3.1/AndroidManifest.xml:34:13-43
-	android:name
-		ADDED from [com.google.firebase:firebase-messaging:23.1.2] /Users/tonibote4/.gradle/caches/transforms-3/dc447fe72cfb304809fdf0c10cf91a03/transformed/firebase-messaging-23.1.2/AndroidManifest.xml:53:13-84
-meta-data#com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar
-ADDED from [com.google.firebase:firebase-messaging:23.1.2] /Users/tonibote4/.gradle/caches/transforms-3/dc447fe72cfb304809fdf0c10cf91a03/transformed/firebase-messaging-23.1.2/AndroidManifest.xml:55:13-57:85
-	android:value
-		ADDED from [com.google.firebase:firebase-messaging:23.1.2] /Users/tonibote4/.gradle/caches/transforms-3/dc447fe72cfb304809fdf0c10cf91a03/transformed/firebase-messaging-23.1.2/AndroidManifest.xml:57:17-82
-	android:name
-		ADDED from [com.google.firebase:firebase-messaging:23.1.2] /Users/tonibote4/.gradle/caches/transforms-3/dc447fe72cfb304809fdf0c10cf91a03/transformed/firebase-messaging-23.1.2/AndroidManifest.xml:56:17-119
-meta-data#com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar
-ADDED from [com.google.firebase:firebase-datatransport:18.1.7] /Users/tonibote4/.gradle/caches/transforms-3/1c7c0612bcee649961cc00f126d72e22/transformed/firebase-datatransport-18.1.7/AndroidManifest.xml:27:13-29:85
-	android:value
-		ADDED from [com.google.firebase:firebase-datatransport:18.1.7] /Users/tonibote4/.gradle/caches/transforms-3/1c7c0612bcee649961cc00f126d72e22/transformed/firebase-datatransport-18.1.7/AndroidManifest.xml:29:17-82
-	android:name
-		ADDED from [com.google.firebase:firebase-datatransport:18.1.7] /Users/tonibote4/.gradle/caches/transforms-3/1c7c0612bcee649961cc00f126d72e22/transformed/firebase-datatransport-18.1.7/AndroidManifest.xml:28:17-115
-meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
-ADDED from [com.google.firebase:firebase-installations:17.1.3] /Users/tonibote4/.gradle/caches/transforms-3/0625461a59256808edb5ca204ddd6b0c/transformed/firebase-installations-17.1.3/AndroidManifest.xml:17:13-19:85
-	android:value
-		ADDED from [com.google.firebase:firebase-installations:17.1.3] /Users/tonibote4/.gradle/caches/transforms-3/0625461a59256808edb5ca204ddd6b0c/transformed/firebase-installations-17.1.3/AndroidManifest.xml:19:17-82
-	android:name
-		ADDED from [com.google.firebase:firebase-installations:17.1.3] /Users/tonibote4/.gradle/caches/transforms-3/0625461a59256808edb5ca204ddd6b0c/transformed/firebase-installations-17.1.3/AndroidManifest.xml:18:17-127
-provider#com.google.firebase.provider.FirebaseInitProvider
-ADDED from [com.google.firebase:firebase-common:20.3.1] /Users/tonibote4/.gradle/caches/transforms-3/74c89106ff7cc8d2d659a00ba65f5143/transformed/firebase-common-20.3.1/AndroidManifest.xml:25:9-30:39
-	android:authorities
-		ADDED from [com.google.firebase:firebase-common:20.3.1] /Users/tonibote4/.gradle/caches/transforms-3/74c89106ff7cc8d2d659a00ba65f5143/transformed/firebase-common-20.3.1/AndroidManifest.xml:27:13-72
-	android:exported
-		ADDED from [com.google.firebase:firebase-common:20.3.1] /Users/tonibote4/.gradle/caches/transforms-3/74c89106ff7cc8d2d659a00ba65f5143/transformed/firebase-common-20.3.1/AndroidManifest.xml:29:13-37
-	android:directBootAware
-		ADDED from [com.google.firebase:firebase-common:20.3.1] /Users/tonibote4/.gradle/caches/transforms-3/74c89106ff7cc8d2d659a00ba65f5143/transformed/firebase-common-20.3.1/AndroidManifest.xml:28:13-43
-	android:initOrder
-		ADDED from [com.google.firebase:firebase-common:20.3.1] /Users/tonibote4/.gradle/caches/transforms-3/74c89106ff7cc8d2d659a00ba65f5143/transformed/firebase-common-20.3.1/AndroidManifest.xml:30:13-36
-	android:name
-		ADDED from [com.google.firebase:firebase-common:20.3.1] /Users/tonibote4/.gradle/caches/transforms-3/74c89106ff7cc8d2d659a00ba65f5143/transformed/firebase-common-20.3.1/AndroidManifest.xml:26:13-77
-activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/tonibote4/.gradle/caches/transforms-3/5466824ca35740d3c6aeb4c5d463f1b2/transformed/play-services-base-18.0.1/AndroidManifest.xml:20:9-22:45
-	android:exported
-		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/tonibote4/.gradle/caches/transforms-3/5466824ca35740d3c6aeb4c5d463f1b2/transformed/play-services-base-18.0.1/AndroidManifest.xml:22:19-43
-	android:theme
-		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/tonibote4/.gradle/caches/transforms-3/5466824ca35740d3c6aeb4c5d463f1b2/transformed/play-services-base-18.0.1/AndroidManifest.xml:21:19-78
-	android:name
-		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/tonibote4/.gradle/caches/transforms-3/5466824ca35740d3c6aeb4c5d463f1b2/transformed/play-services-base-18.0.1/AndroidManifest.xml:20:19-85
-meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:18.1.0] /Users/tonibote4/.gradle/caches/transforms-3/28a741edc80a99d6fd4d8140326ebccf/transformed/play-services-basement-18.1.0/AndroidManifest.xml:21:9-23:69
-	android:value
-		ADDED from [com.google.android.gms:play-services-basement:18.1.0] /Users/tonibote4/.gradle/caches/transforms-3/28a741edc80a99d6fd4d8140326ebccf/transformed/play-services-basement-18.1.0/AndroidManifest.xml:23:13-66
-	android:name
-		ADDED from [com.google.android.gms:play-services-basement:18.1.0] /Users/tonibote4/.gradle/caches/transforms-3/28a741edc80a99d6fd4d8140326ebccf/transformed/play-services-basement-18.1.0/AndroidManifest.xml:22:13-58
 provider#androidx.startup.InitializationProvider
 ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/tonibote4/.gradle/caches/transforms-3/791b39fe68826e8543c46f2d7f8b152e/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
 MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/tonibote4/.gradle/caches/transforms-3/86041ab2b0d2128b301212662b855cec/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20
@@ -637,31 +438,3 @@ ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/tonibote4/.gradle
 		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/tonibote4/.gradle/caches/transforms-3/86041ab2b0d2128b301212662b855cec/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
 	android:name
 		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/tonibote4/.gradle/caches/transforms-3/86041ab2b0d2128b301212662b855cec/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
-service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
-ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/tonibote4/.gradle/caches/transforms-3/8c6712bcf23b93b22b73258f9fbc9b0c/transformed/transport-backend-cct-3.1.8/AndroidManifest.xml:28:9-34:19
-MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/tonibote4/.gradle/caches/transforms-3/f7a08f703a491652b0d7e56b12c09b4a/transformed/transport-runtime-3.1.8/AndroidManifest.xml:36:9-38:40
-MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/tonibote4/.gradle/caches/transforms-3/f7a08f703a491652b0d7e56b12c09b4a/transformed/transport-runtime-3.1.8/AndroidManifest.xml:36:9-38:40
-	android:exported
-		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/tonibote4/.gradle/caches/transforms-3/8c6712bcf23b93b22b73258f9fbc9b0c/transformed/transport-backend-cct-3.1.8/AndroidManifest.xml:30:13-37
-	android:name
-		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/tonibote4/.gradle/caches/transforms-3/8c6712bcf23b93b22b73258f9fbc9b0c/transformed/transport-backend-cct-3.1.8/AndroidManifest.xml:29:13-103
-meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
-ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/tonibote4/.gradle/caches/transforms-3/8c6712bcf23b93b22b73258f9fbc9b0c/transformed/transport-backend-cct-3.1.8/AndroidManifest.xml:31:13-33:39
-	android:value
-		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/tonibote4/.gradle/caches/transforms-3/8c6712bcf23b93b22b73258f9fbc9b0c/transformed/transport-backend-cct-3.1.8/AndroidManifest.xml:33:17-36
-	android:name
-		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/tonibote4/.gradle/caches/transforms-3/8c6712bcf23b93b22b73258f9fbc9b0c/transformed/transport-backend-cct-3.1.8/AndroidManifest.xml:32:17-94
-service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
-ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/tonibote4/.gradle/caches/transforms-3/f7a08f703a491652b0d7e56b12c09b4a/transformed/transport-runtime-3.1.8/AndroidManifest.xml:26:9-30:19
-	android:exported
-		ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/tonibote4/.gradle/caches/transforms-3/f7a08f703a491652b0d7e56b12c09b4a/transformed/transport-runtime-3.1.8/AndroidManifest.xml:28:13-37
-	android:permission
-		ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/tonibote4/.gradle/caches/transforms-3/f7a08f703a491652b0d7e56b12c09b4a/transformed/transport-runtime-3.1.8/AndroidManifest.xml:29:13-69
-	android:name
-		ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/tonibote4/.gradle/caches/transforms-3/f7a08f703a491652b0d7e56b12c09b4a/transformed/transport-runtime-3.1.8/AndroidManifest.xml:27:13-117
-receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
-ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/tonibote4/.gradle/caches/transforms-3/f7a08f703a491652b0d7e56b12c09b4a/transformed/transport-runtime-3.1.8/AndroidManifest.xml:32:9-34:40
-	android:exported
-		ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/tonibote4/.gradle/caches/transforms-3/f7a08f703a491652b0d7e56b12c09b4a/transformed/transport-runtime-3.1.8/AndroidManifest.xml:34:13-37
-	android:name
-		ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/tonibote4/.gradle/caches/transforms-3/f7a08f703a491652b0d7e56b12c09b4a/transformed/transport-runtime-3.1.8/AndroidManifest.xml:33:13-132

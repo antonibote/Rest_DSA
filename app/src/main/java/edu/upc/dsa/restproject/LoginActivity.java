@@ -1,5 +1,4 @@
 package edu.upc.dsa.restproject;
-import static com.google.firebase.messaging.Constants.MessageNotificationKeys.TAG;
 import android.annotation.SuppressLint;
 import android.content.Context;
 import android.content.Intent;
@@ -12,9 +11,6 @@ import android.widget.Button;
 import android.widget.ProgressBar;
 import android.widget.Toast;
 import androidx.appcompat.app.AppCompatActivity;
-import com.google.android.gms.tasks.OnCompleteListener;
-import com.google.android.gms.tasks.Task;
-import com.google.firebase.messaging.FirebaseMessaging;
 
 import edu.upc.dsa.restproject.models.idUser;
 
@@ -117,20 +113,6 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
         editor.apply();
     }
 
-    public void subscribeToFirebase() {
-        FirebaseMessaging.getInstance().subscribeToTopic("admin")
-                .addOnCompleteListener(new OnCompleteListener<Void>() {
-                    @Override
-                    public void onComplete(@NonNull Task<Void> task) {
-                        String msg = "Subscribed as ADMIN";
-                        if (!task.isSuccessful()) {
-                            msg = "Subscribe failed";
-                        }
-                        Log.d(TAG, msg);
-                        Toast.makeText(LoginActivity.this, msg, Toast.LENGTH_SHORT).show();
-                    }
-                });
-    }
     public void returnFunction(View view){
         Intent intentRegister = new Intent(LoginActivity.this, MainActivity.class);
         LoginActivity.this.startActivity(intentRegister);

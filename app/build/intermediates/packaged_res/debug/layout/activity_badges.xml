@@ -12,7 +12,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="70dp"
-        android:text="PROFILE"
+        android:text="BADGES"
         android:textColor="#000000"
         android:textSize="50sp"
         android:textStyle="bold"
@@ -23,7 +23,7 @@
         android:layout_width="match_parent"
         android:layout_height="600dp"
         android:layout_below="@+id/profiletitle"
-        android:layout_marginTop="-6dp"
+        android:layout_marginTop="0dp"
         android:background="@drawable/fondo"
         android:scrollbars="vertical" />
 

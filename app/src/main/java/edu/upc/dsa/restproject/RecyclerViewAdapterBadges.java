@@ -28,7 +28,7 @@ public class RecyclerViewAdapterBadges extends RecyclerView.Adapter<RecyclerView
         public ViewHolder(@NonNull View itemView) {
             super(itemView);
             name=(TextView)itemView.findViewById(R.id.name);
-            image=(ImageView) itemView.findViewById(R.id.itemImage);
+            image=(ImageView) itemView.findViewById(R.id.badge_imageview);
             itemView.setOnClickListener(this);
         }
         @Override
@@ -53,9 +53,7 @@ public class RecyclerViewAdapterBadges extends RecyclerView.Adapter<RecyclerView
     @Override
     public void onBindViewHolder(@NonNull RecyclerViewAdapterBadges.ViewHolder holder, int position) {
         holder.name.setText(badges.get(position).getName());
-        /*Picasso.get()
-                .load("https://res.cloudinary.com/teepublic/image/private/s--Xq_1zPuU--/c_crop,x_10,y_10/c_fit,h_830/c_crop,g_north_west,h_1038,w_1038,x_-154,y_-104/l_upload:v1565806151:production:blanks:vdbwo35fw6qtflw9kezw/fl_layer_apply,g_north_west,x_-265,y_-215/b_rgb:ffffff/c_limit,f_jpg,h_630,q_90,w_630/v1536844414/production/designs/3149437_0.jpg")
-                .into(holder.image);*/
+        Picasso.get().load(badges.get(position).getImage()).into(holder.image);
     }
 
     @Override
