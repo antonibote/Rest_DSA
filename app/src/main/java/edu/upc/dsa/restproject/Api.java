@@ -10,6 +10,7 @@ import edu.upc.dsa.restproject.models.Insignias;
 import edu.upc.dsa.restproject.models.Inventory;
 import edu.upc.dsa.restproject.models.Item;
 import edu.upc.dsa.restproject.models.Message;
+import edu.upc.dsa.restproject.models.Question;
 import edu.upc.dsa.restproject.models.UpdateInfo;
 import edu.upc.dsa.restproject.models.UserRegister;
 import edu.upc.dsa.restproject.models.VOPlayerGameCredencials;
@@ -50,4 +51,6 @@ public interface Api {
     Call<List<Inventory>> getInventory(@Path("idUser") String idUser);
     @PUT("game/update")
     Call<UpdateInfo> update(@Body UpdateInfo info);
+    @POST("game/user/question")
+    Call<Void> addQuestion(@Body Question question);
 }

@@ -31,6 +31,7 @@ id buttonEmpezarPartida
 id buttonInventory
 id buttonLogin
 id buttonProfile
+id buttonQuestion
 id buttonRegistro
 id buttonUpdateProfile
 id buttonUsuarioRegistrado
@@ -52,6 +53,7 @@ id inventorytitle
 id itemImage
 id linea
 id message
+id messageInput
 id my_new_imageView
 id my_new_recycler_view
 id name
@@ -70,9 +72,13 @@ id recyclerviewbadge
 id recyclerviewinventory
 id returnBtn
 id returnBtn2
+id sendButton
 id shopButton
 id shoptitle
 id spanishlanguage
+id subtitle
+id subtitle2
+id subtitle3
 id surname
 id surnameUsuarioLayout
 id surnameUsuariotext
@@ -85,6 +91,8 @@ id textView6
 id textView7
 id textView8
 id title2
+id titleInput
+id titleQuestions
 layout abuse_activity
 layout activity_badges
 layout activity_badgescard
@@ -102,6 +110,7 @@ layout activity_profile
 layout activity_registro
 layout activity_tienda
 layout principal_main
+layout question_activity
 mipmap ic_launcher
 mipmap ic_launcher_round
 string ReturnBtn2

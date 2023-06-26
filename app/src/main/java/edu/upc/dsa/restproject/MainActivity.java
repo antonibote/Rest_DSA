@@ -16,7 +16,6 @@ import com.google.android.material.snackbar.Snackbar;
 import com.google.android.material.textfield.TextInputEditText;
 
 import edu.upc.dsa.restproject.models.Credentials;
-import edu.upc.dsa.restproject.models.User;
 import edu.upc.dsa.restproject.models.idUser;
 import retrofit2.Call;
 import retrofit2.Callback;
@@ -28,6 +27,8 @@ public class MainActivity extends AppCompatActivity {
     TextInputEditText email;
     TextInputEditText password;
     Api APIservices;
+
+    Button buttonQuestion;
     ProgressBar progressBar;
     //DatabaseHelper db;
     public static final String TEXT1 = "User's email: ";
@@ -44,6 +45,13 @@ public class MainActivity extends AppCompatActivity {
 
         email = findViewById(R.id.nombreUsuariotext);
         password = findViewById(R.id.passwordtext);
+        buttonQuestion = findViewById(R.id.buttonQuestion);
+        buttonQuestion.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                buttonQuestion(v);
+            }
+        });
 
 
         progressBar = findViewById(R.id.progressBar);
@@ -117,5 +125,13 @@ public class MainActivity extends AppCompatActivity {
         Intent intentRegister = new Intent(MainActivity.this, RegisterActivity.class);
         MainActivity.this.startActivity(intentRegister);
 
+
     }
+    public void buttonQuestion(View view) {
+        // Iniciar la nueva actividad al hacer clic en el botón
+
+        Intent intentQuestion = new Intent(MainActivity.this, QuestionActivity.class);
+        MainActivity.this.startActivity(intentQuestion);
+    }
+
 }

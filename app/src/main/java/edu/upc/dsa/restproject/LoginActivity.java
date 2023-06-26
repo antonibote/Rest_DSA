@@ -72,6 +72,8 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
                 i = new Intent(this,ProfileActivity.class);
                 startActivity(i);
                 break;
+
+
         }
     }
 
