@@ -2683,11 +2683,11 @@ int id buttonInventory 0x7f08006e
 int id buttonLogin 0x7f08006f
 int id buttonPanel 0x7f080070
 int id buttonProfile 0x7f080071
-int id buttonQuestion 0x7f080238
-int id buttonRegistro 0x7f080072
-int id buttonUpdateProfile 0x7f080073
-int id buttonUsuarioRegistrado 0x7f080074
-int id buttonVerPartidas 0x7f080075
+int id buttonQuestion 0x7f080072
+int id buttonRegistro 0x7f080073
+int id buttonUpdateProfile 0x7f080074
+int id buttonUsuarioRegistrado 0x7f080075
+int id buttonVerPartidas 0x7f080076
 int id cache_measures 0x7f080077
 int id callMeasure 0x7f080078
 int id cancel_button 0x7f080079

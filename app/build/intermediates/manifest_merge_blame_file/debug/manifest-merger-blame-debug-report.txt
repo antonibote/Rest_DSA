@@ -6,317 +6,317 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="25"
-8-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml
+8-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml
 9        android:targetSdkVersion="33" />
-9-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml
+9-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:4:5-67
-11-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:4:22-64
+11-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:4:5-67
+11-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:4:22-64
 12
 13    <queries>
-13-->[com.google.ar:core:1.30.0] C:\Users\Usuario-App\.gradle\caches\transforms-3\d6e838ff9c31583bb18618b533a5d1fd\transformed\core-1.30.0\AndroidManifest.xml:29:5-31:15
+13-->[com.google.ar:core:1.30.0] /Users/tonibote4/.gradle/caches/transforms-3/d6e838ff9c31583bb18618b533a5d1fd/transformed/core-1.30.0/AndroidManifest.xml:29:5-31:15
 14        <package android:name="com.google.ar.core" />
-14-->[com.google.ar:core:1.30.0] C:\Users\Usuario-App\.gradle\caches\transforms-3\d6e838ff9c31583bb18618b533a5d1fd\transformed\core-1.30.0\AndroidManifest.xml:30:9-54
-14-->[com.google.ar:core:1.30.0] C:\Users\Usuario-App\.gradle\caches\transforms-3\d6e838ff9c31583bb18618b533a5d1fd\transformed\core-1.30.0\AndroidManifest.xml:30:18-51
+14-->[com.google.ar:core:1.30.0] /Users/tonibote4/.gradle/caches/transforms-3/d6e838ff9c31583bb18618b533a5d1fd/transformed/core-1.30.0/AndroidManifest.xml:30:9-54
+14-->[com.google.ar:core:1.30.0] /Users/tonibote4/.gradle/caches/transforms-3/d6e838ff9c31583bb18618b533a5d1fd/transformed/core-1.30.0/AndroidManifest.xml:30:18-51
 15    </queries>
 16
 17    <application
-17-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:5:5-126:19
+17-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:5:5-126:19
 18        android:allowBackup="true"
-18-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:6:9-35
+18-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:6:9-35
 19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-19-->[androidx.core:core:1.8.0] C:\Users\Usuario-App\.gradle\caches\transforms-3\f8ca33f57cc610a0b1ed31d0cc4084bb\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+19-->[androidx.core:core:1.8.0] /Users/tonibote4/.gradle/caches/transforms-3/f8ca33f57cc610a0b1ed31d0cc4084bb/transformed/core-1.8.0/AndroidManifest.xml:24:18-86
 20        android:dataExtractionRules="@xml/data_extraction_rules"
-20-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:7:9-65
+20-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:7:9-65
 21        android:debuggable="true"
 22        android:extractNativeLibs="true"
-22-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:12:9-41
+22-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:12:9-41
 23        android:fullBackupContent="@xml/backup_rules"
-23-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:8:9-54
+23-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:8:9-54
 24        android:icon="@drawable/ic_launcher_background"
-24-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:9:9-56
+24-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:9:9-56
 25        android:label="@string/app_name"
-25-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:10:9-41
+25-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:10:9-41
 26        android:roundIcon="@mipmap/ic_launcher_round"
-26-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:15:9-54
+26-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:15:9-54
 27        android:supportsRtl="true"
-27-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:11:9-35
+27-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:11:9-35
 28        android:testOnly="true"
 29        android:theme="@style/Theme.RESTPROJECT"
-29-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:14:9-49
+29-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:14:9-49
 30        android:usesCleartextTraffic="true" >
-30-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:13:9-44
+30-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:13:9-44
 31        <activity
-31-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:18:9-29:20
+31-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:18:9-29:20
 32            android:name="edu.upc.dsa.restproject.PrincipalMainActivity"
-32-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:19:13-50
+32-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:19:13-50
 33            android:exported="true"
-33-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:20:13-36
+33-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:20:13-36
 34            android:label="@string/app_name" >
-34-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:21:13-45
+34-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:21:13-45
 35            <intent-filter>
-35-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:22:13-25:29
+35-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:22:13-25:29
 36                <action android:name="android.intent.action.MAIN" />
-36-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:23:17-69
-36-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:23:25-66
+36-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:23:17-69
+36-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:23:25-66
 37
 38                <category android:name="android.intent.category.LAUNCHER" />
-38-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:24:17-77
-38-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:24:27-74
+38-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:24:17-77
+38-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:24:27-74
 39            </intent-filter>
 40
 41            <meta-data
-41-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:26:13-28:35
+41-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:26:13-28:35
 42                android:name="android.app.lib_name"
-42-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:27:17-52
+42-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:27:17-52
 43                android:value="" />
-43-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:28:17-33
+43-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:28:17-33
 44        </activity>
 45        <activity
-45-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:30:9-37:20
+45-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:30:9-37:20
 46            android:name="edu.upc.dsa.restproject.MainActivity"
-46-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:31:13-41
+46-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:31:13-41
 47            android:exported="true"
-47-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:32:13-36
+47-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:32:13-36
 48            android:label="@string/app_name" >
-48-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:33:13-45
+48-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:33:13-45
 49            <meta-data
-49-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:26:13-28:35
+49-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:26:13-28:35
 50                android:name="android.app.lib_name"
-50-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:27:17-52
+50-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:27:17-52
 51                android:value="" />
-51-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:28:17-33
+51-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:28:17-33
 52        </activity>
 53        <activity
-53-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:38:9-45:20
+53-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:38:9-45:20
 54            android:name="edu.upc.dsa.restproject.RegisterActivity"
-54-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:39:13-45
+54-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:39:13-45
 55            android:exported="true"
-55-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:40:13-36
+55-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:40:13-36
 56            android:label="@string/app_name" >
-56-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:41:13-45
+56-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:41:13-45
 57            <meta-data
-57-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:26:13-28:35
+57-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:26:13-28:35
 58                android:name="android.app.lib_name"
-58-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:27:17-52
+58-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:27:17-52
 59                android:value="" />
-59-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:28:17-33
+59-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:28:17-33
 60        </activity>
 61        <activity
-61-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:46:9-53:20
+61-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:46:9-53:20
 62            android:name="edu.upc.dsa.restproject.LoginActivity"
-62-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:47:9-38
+62-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:47:9-38
 63            android:exported="true"
-63-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:48:9-32
+63-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:48:9-32
 64            android:label="@string/app_name" >
-64-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:49:9-41
+64-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:49:9-41
 65            <meta-data
-65-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:26:13-28:35
+65-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:26:13-28:35
 66                android:name="android.app.lib_name"
-66-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:27:17-52
+66-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:27:17-52
 67                android:value="" />
-67-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:28:17-33
+67-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:28:17-33
 68        </activity>
 69        <activity
-69-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:54:9-61:20
+69-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:54:9-61:20
 70            android:name="edu.upc.dsa.restproject.AbuseActivity"
-70-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:55:13-42
+70-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:55:13-42
 71            android:exported="true"
-71-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:56:13-36
+71-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:56:13-36
 72            android:label="@string/app_name" >
-72-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:57:13-45
+72-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:57:13-45
 73            <meta-data
-73-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:26:13-28:35
+73-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:26:13-28:35
 74                android:name="android.app.lib_name"
-74-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:27:17-52
+74-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:27:17-52
 75                android:value="" />
-75-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:28:17-33
+75-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:28:17-33
 76        </activity>
 77        <activity
-77-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:62:9-69:20
+77-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:62:9-69:20
 78            android:name="edu.upc.dsa.restproject.TiendaActivity"
-78-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:63:13-43
+78-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:63:13-43
 79            android:exported="true"
-79-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:64:13-36
+79-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:64:13-36
 80            android:label="@string/app_name" >
-80-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:65:13-45
+80-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:65:13-45
 81            <meta-data
-81-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:26:13-28:35
+81-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:26:13-28:35
 82                android:name="android.app.lib_name"
-82-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:27:17-52
+82-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:27:17-52
 83                android:value="" />
-83-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:28:17-33
+83-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:28:17-33
 84        </activity>
 85        <activity
-85-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:70:9-77:20
+85-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:70:9-77:20
 86            android:name="edu.upc.dsa.restproject.FaqActivity"
-86-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:71:13-40
+86-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:71:13-40
 87            android:exported="true"
-87-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:72:13-36
+87-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:72:13-36
 88            android:label="@string/app_name" >
-88-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:73:13-45
+88-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:73:13-45
 89            <meta-data
-89-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:26:13-28:35
+89-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:26:13-28:35
 90                android:name="android.app.lib_name"
-90-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:27:17-52
+90-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:27:17-52
 91                android:value="" />
-91-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:28:17-33
+91-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:28:17-33
 92        </activity>
 93        <activity
-93-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:78:9-85:20
+93-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:78:9-85:20
 94            android:name="edu.upc.dsa.restproject.LanguageActivity"
-94-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:79:13-45
+94-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:79:13-45
 95            android:exported="true"
-95-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:80:13-36
+95-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:80:13-36
 96            android:label="@string/app_name" >
-96-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:81:13-45
+96-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:81:13-45
 97            <meta-data
-97-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:26:13-28:35
+97-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:26:13-28:35
 98                android:name="android.app.lib_name"
-98-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:27:17-52
+98-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:27:17-52
 99                android:value="" />
-99-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:28:17-33
+99-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:28:17-33
 100        </activity>
 101        <activity
-101-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:86:9-93:20
+101-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:86:9-93:20
 102            android:name="edu.upc.dsa.restproject.NotificationsActivity"
-102-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:87:13-50
+102-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:87:13-50
 103            android:exported="true"
-103-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:88:13-36
+103-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:88:13-36
 104            android:label="@string/app_name" >
-104-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:89:13-45
+104-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:89:13-45
 105            <meta-data
-105-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:26:13-28:35
+105-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:26:13-28:35
 106                android:name="android.app.lib_name"
-106-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:27:17-52
+106-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:27:17-52
 107                android:value="" />
-107-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:28:17-33
+107-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:28:17-33
 108        </activity>
 109        <activity
-109-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:94:9-101:20
+109-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:94:9-101:20
 110            android:name="edu.upc.dsa.restproject.ProfileActivity"
-110-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:95:13-44
+110-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:95:13-44
 111            android:exported="true"
-111-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:96:13-36
+111-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:96:13-36
 112            android:label="@string/app_name" >
-112-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:97:13-45
+112-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:97:13-45
 113            <meta-data
-113-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:26:13-28:35
+113-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:26:13-28:35
 114                android:name="android.app.lib_name"
-114-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:27:17-52
+114-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:27:17-52
 115                android:value="" />
-115-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:28:17-33
+115-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:28:17-33
 116        </activity>
 117        <activity
-117-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:102:9-109:20
+117-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:102:9-109:20
 118            android:name="edu.upc.dsa.restproject.BadgesActivity"
-118-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:103:13-43
+118-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:103:13-43
 119            android:exported="true"
-119-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:104:13-36
+119-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:104:13-36
 120            android:label="@string/app_name" >
-120-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:105:13-45
+120-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:105:13-45
 121            <meta-data
-121-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:26:13-28:35
+121-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:26:13-28:35
 122                android:name="android.app.lib_name"
-122-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:27:17-52
+122-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:27:17-52
 123                android:value="" />
-123-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:28:17-33
+123-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:28:17-33
 124        </activity>
 125        <activity
-125-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:110:9-117:20
+125-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:110:9-117:20
 126            android:name="edu.upc.dsa.restproject.InventoryActivity"
-126-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:111:13-46
+126-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:111:13-46
 127            android:exported="true"
-127-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:112:13-36
+127-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:112:13-36
 128            android:label="@string/app_name" >
-128-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:113:13-45
+128-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:113:13-45
 129            <meta-data
-129-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:26:13-28:35
+129-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:26:13-28:35
 130                android:name="android.app.lib_name"
-130-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:27:17-52
+130-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:27:17-52
 131                android:value="" />
-131-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:28:17-33
+131-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:28:17-33
 132        </activity>
 133        <activity
-133-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:118:9-125:20
+133-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:118:9-125:20
 134            android:name="edu.upc.dsa.restproject.QuestionActivity"
-134-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:119:13-45
+134-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:119:13-45
 135            android:exported="true"
-135-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:120:13-36
+135-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:120:13-36
 136            android:label="RESTPROJECT" >
-136-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:121:13-40
+136-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:121:13-40
 137            <meta-data
-137-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:26:13-28:35
+137-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:26:13-28:35
 138                android:name="android.app.lib_name"
-138-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:27:17-52
+138-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:27:17-52
 139                android:value="" />
-139-->C:\Users\Usuario-App\Desktop\4A\DSA\Rest_DSA_TONI\app\src\main\AndroidManifest.xml:28:17-33
+139-->/Users/tonibote4/Desktop/Rest_DSA/app/src/main/AndroidManifest.xml:28:17-33
 140        </activity>
 141
 142        <provider
-142-->[com.squareup.picasso:picasso:2.71828] C:\Users\Usuario-App\.gradle\caches\transforms-3\606ed2428811195b8467773399e613aa\transformed\picasso-2.71828\AndroidManifest.xml:8:9-11:40
+142-->[com.squareup.picasso:picasso:2.71828] /Users/tonibote4/.gradle/caches/transforms-3/606ed2428811195b8467773399e613aa/transformed/picasso-2.71828/AndroidManifest.xml:8:9-11:40
 143            android:name="com.squareup.picasso.PicassoProvider"
-143-->[com.squareup.picasso:picasso:2.71828] C:\Users\Usuario-App\.gradle\caches\transforms-3\606ed2428811195b8467773399e613aa\transformed\picasso-2.71828\AndroidManifest.xml:9:13-64
+143-->[com.squareup.picasso:picasso:2.71828] /Users/tonibote4/.gradle/caches/transforms-3/606ed2428811195b8467773399e613aa/transformed/picasso-2.71828/AndroidManifest.xml:9:13-64
 144            android:authorities="edu.upc.dsa.restproject.com.squareup.picasso"
-144-->[com.squareup.picasso:picasso:2.71828] C:\Users\Usuario-App\.gradle\caches\transforms-3\606ed2428811195b8467773399e613aa\transformed\picasso-2.71828\AndroidManifest.xml:10:13-72
+144-->[com.squareup.picasso:picasso:2.71828] /Users/tonibote4/.gradle/caches/transforms-3/606ed2428811195b8467773399e613aa/transformed/picasso-2.71828/AndroidManifest.xml:10:13-72
 145            android:exported="false" /> <!-- The minimal version code of ARCore APK required for an app using this SDK. -->
-145-->[com.squareup.picasso:picasso:2.71828] C:\Users\Usuario-App\.gradle\caches\transforms-3\606ed2428811195b8467773399e613aa\transformed\picasso-2.71828\AndroidManifest.xml:11:13-37
+145-->[com.squareup.picasso:picasso:2.71828] /Users/tonibote4/.gradle/caches/transforms-3/606ed2428811195b8467773399e613aa/transformed/picasso-2.71828/AndroidManifest.xml:11:13-37
 146        <meta-data
-146-->[com.google.ar:core:1.30.0] C:\Users\Usuario-App\.gradle\caches\transforms-3\d6e838ff9c31583bb18618b533a5d1fd\transformed\core-1.30.0\AndroidManifest.xml:36:9-38:41
+146-->[com.google.ar:core:1.30.0] /Users/tonibote4/.gradle/caches/transforms-3/d6e838ff9c31583bb18618b533a5d1fd/transformed/core-1.30.0/AndroidManifest.xml:36:9-38:41
 147            android:name="com.google.ar.core.min_apk_version"
-147-->[com.google.ar:core:1.30.0] C:\Users\Usuario-App\.gradle\caches\transforms-3\d6e838ff9c31583bb18618b533a5d1fd\transformed\core-1.30.0\AndroidManifest.xml:37:13-62
+147-->[com.google.ar:core:1.30.0] /Users/tonibote4/.gradle/caches/transforms-3/d6e838ff9c31583bb18618b533a5d1fd/transformed/core-1.30.0/AndroidManifest.xml:37:13-62
 148            android:value="213210000" /> <!-- This activity is critical for installing ARCore when it is not already present. -->
-148-->[com.google.ar:core:1.30.0] C:\Users\Usuario-App\.gradle\caches\transforms-3\d6e838ff9c31583bb18618b533a5d1fd\transformed\core-1.30.0\AndroidManifest.xml:38:13-38
+148-->[com.google.ar:core:1.30.0] /Users/tonibote4/.gradle/caches/transforms-3/d6e838ff9c31583bb18618b533a5d1fd/transformed/core-1.30.0/AndroidManifest.xml:38:13-38
 149        <activity
-149-->[com.google.ar:core:1.30.0] C:\Users\Usuario-App\.gradle\caches\transforms-3\d6e838ff9c31583bb18618b533a5d1fd\transformed\core-1.30.0\AndroidManifest.xml:40:9-46:80
+149-->[com.google.ar:core:1.30.0] /Users/tonibote4/.gradle/caches/transforms-3/d6e838ff9c31583bb18618b533a5d1fd/transformed/core-1.30.0/AndroidManifest.xml:40:9-46:80
 150            android:name="com.google.ar.core.InstallActivity"
-150-->[com.google.ar:core:1.30.0] C:\Users\Usuario-App\.gradle\caches\transforms-3\d6e838ff9c31583bb18618b533a5d1fd\transformed\core-1.30.0\AndroidManifest.xml:41:13-62
+150-->[com.google.ar:core:1.30.0] /Users/tonibote4/.gradle/caches/transforms-3/d6e838ff9c31583bb18618b533a5d1fd/transformed/core-1.30.0/AndroidManifest.xml:41:13-62
 151            android:configChanges="keyboardHidden|orientation|screenSize"
-151-->[com.google.ar:core:1.30.0] C:\Users\Usuario-App\.gradle\caches\transforms-3\d6e838ff9c31583bb18618b533a5d1fd\transformed\core-1.30.0\AndroidManifest.xml:42:13-74
+151-->[com.google.ar:core:1.30.0] /Users/tonibote4/.gradle/caches/transforms-3/d6e838ff9c31583bb18618b533a5d1fd/transformed/core-1.30.0/AndroidManifest.xml:42:13-74
 152            android:excludeFromRecents="true"
-152-->[com.google.ar:core:1.30.0] C:\Users\Usuario-App\.gradle\caches\transforms-3\d6e838ff9c31583bb18618b533a5d1fd\transformed\core-1.30.0\AndroidManifest.xml:43:13-46
+152-->[com.google.ar:core:1.30.0] /Users/tonibote4/.gradle/caches/transforms-3/d6e838ff9c31583bb18618b533a5d1fd/transformed/core-1.30.0/AndroidManifest.xml:43:13-46
 153            android:exported="false"
-153-->[com.google.ar:core:1.30.0] C:\Users\Usuario-App\.gradle\caches\transforms-3\d6e838ff9c31583bb18618b533a5d1fd\transformed\core-1.30.0\AndroidManifest.xml:44:13-37
+153-->[com.google.ar:core:1.30.0] /Users/tonibote4/.gradle/caches/transforms-3/d6e838ff9c31583bb18618b533a5d1fd/transformed/core-1.30.0/AndroidManifest.xml:44:13-37
 154            android:launchMode="singleTop"
-154-->[com.google.ar:core:1.30.0] C:\Users\Usuario-App\.gradle\caches\transforms-3\d6e838ff9c31583bb18618b533a5d1fd\transformed\core-1.30.0\AndroidManifest.xml:45:13-43
+154-->[com.google.ar:core:1.30.0] /Users/tonibote4/.gradle/caches/transforms-3/d6e838ff9c31583bb18618b533a5d1fd/transformed/core-1.30.0/AndroidManifest.xml:45:13-43
 155            android:theme="@android:style/Theme.Material.Light.Dialog.Alert" />
-155-->[com.google.ar:core:1.30.0] C:\Users\Usuario-App\.gradle\caches\transforms-3\d6e838ff9c31583bb18618b533a5d1fd\transformed\core-1.30.0\AndroidManifest.xml:46:13-77
+155-->[com.google.ar:core:1.30.0] /Users/tonibote4/.gradle/caches/transforms-3/d6e838ff9c31583bb18618b533a5d1fd/transformed/core-1.30.0/AndroidManifest.xml:46:13-77
 156
 157        <provider
-157-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Usuario-App\.gradle\caches\transforms-3\791b39fe68826e8543c46f2d7f8b152e\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+157-->[androidx.emoji2:emoji2:1.2.0] /Users/tonibote4/.gradle/caches/transforms-3/791b39fe68826e8543c46f2d7f8b152e/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
 158            android:name="androidx.startup.InitializationProvider"
-158-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Usuario-App\.gradle\caches\transforms-3\791b39fe68826e8543c46f2d7f8b152e\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+158-->[androidx.emoji2:emoji2:1.2.0] /Users/tonibote4/.gradle/caches/transforms-3/791b39fe68826e8543c46f2d7f8b152e/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
 159            android:authorities="edu.upc.dsa.restproject.androidx-startup"
-159-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Usuario-App\.gradle\caches\transforms-3\791b39fe68826e8543c46f2d7f8b152e\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+159-->[androidx.emoji2:emoji2:1.2.0] /Users/tonibote4/.gradle/caches/transforms-3/791b39fe68826e8543c46f2d7f8b152e/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
 160            android:exported="false" >
-160-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Usuario-App\.gradle\caches\transforms-3\791b39fe68826e8543c46f2d7f8b152e\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+160-->[androidx.emoji2:emoji2:1.2.0] /Users/tonibote4/.gradle/caches/transforms-3/791b39fe68826e8543c46f2d7f8b152e/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
 161            <meta-data
-161-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Usuario-App\.gradle\caches\transforms-3\791b39fe68826e8543c46f2d7f8b152e\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+161-->[androidx.emoji2:emoji2:1.2.0] /Users/tonibote4/.gradle/caches/transforms-3/791b39fe68826e8543c46f2d7f8b152e/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
 162                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-162-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Usuario-App\.gradle\caches\transforms-3\791b39fe68826e8543c46f2d7f8b152e\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+162-->[androidx.emoji2:emoji2:1.2.0] /Users/tonibote4/.gradle/caches/transforms-3/791b39fe68826e8543c46f2d7f8b152e/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
 163                android:value="androidx.startup" />
-163-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Usuario-App\.gradle\caches\transforms-3\791b39fe68826e8543c46f2d7f8b152e\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+163-->[androidx.emoji2:emoji2:1.2.0] /Users/tonibote4/.gradle/caches/transforms-3/791b39fe68826e8543c46f2d7f8b152e/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
 164            <meta-data
-164-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Usuario-App\.gradle\caches\transforms-3\86041ab2b0d2128b301212662b855cec\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+164-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/tonibote4/.gradle/caches/transforms-3/86041ab2b0d2128b301212662b855cec/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
 165                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-165-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Usuario-App\.gradle\caches\transforms-3\86041ab2b0d2128b301212662b855cec\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+165-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/tonibote4/.gradle/caches/transforms-3/86041ab2b0d2128b301212662b855cec/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
 166                android:value="androidx.startup" />
-166-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Usuario-App\.gradle\caches\transforms-3\86041ab2b0d2128b301212662b855cec\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+166-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/tonibote4/.gradle/caches/transforms-3/86041ab2b0d2128b301212662b855cec/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
 167        </provider>
 168
 169        <uses-library
-169-->[androidx.window:window:1.0.0] C:\Users\Usuario-App\.gradle\caches\transforms-3\8f9220d66762372c6aa1e02e07b4f277\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
+169-->[androidx.window:window:1.0.0] /Users/tonibote4/.gradle/caches/transforms-3/8f9220d66762372c6aa1e02e07b4f277/transformed/window-1.0.0/AndroidManifest.xml:25:9-27:40
 170            android:name="androidx.window.extensions"
-170-->[androidx.window:window:1.0.0] C:\Users\Usuario-App\.gradle\caches\transforms-3\8f9220d66762372c6aa1e02e07b4f277\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
+170-->[androidx.window:window:1.0.0] /Users/tonibote4/.gradle/caches/transforms-3/8f9220d66762372c6aa1e02e07b4f277/transformed/window-1.0.0/AndroidManifest.xml:26:13-54
 171            android:required="false" />
-171-->[androidx.window:window:1.0.0] C:\Users\Usuario-App\.gradle\caches\transforms-3\8f9220d66762372c6aa1e02e07b4f277\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
+171-->[androidx.window:window:1.0.0] /Users/tonibote4/.gradle/caches/transforms-3/8f9220d66762372c6aa1e02e07b4f277/transformed/window-1.0.0/AndroidManifest.xml:27:13-37
 172        <uses-library
-172-->[androidx.window:window:1.0.0] C:\Users\Usuario-App\.gradle\caches\transforms-3\8f9220d66762372c6aa1e02e07b4f277\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
+172-->[androidx.window:window:1.0.0] /Users/tonibote4/.gradle/caches/transforms-3/8f9220d66762372c6aa1e02e07b4f277/transformed/window-1.0.0/AndroidManifest.xml:28:9-30:40
 173            android:name="androidx.window.sidecar"
-173-->[androidx.window:window:1.0.0] C:\Users\Usuario-App\.gradle\caches\transforms-3\8f9220d66762372c6aa1e02e07b4f277\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
+173-->[androidx.window:window:1.0.0] /Users/tonibote4/.gradle/caches/transforms-3/8f9220d66762372c6aa1e02e07b4f277/transformed/window-1.0.0/AndroidManifest.xml:29:13-51
 174            android:required="false" />
-174-->[androidx.window:window:1.0.0] C:\Users\Usuario-App\.gradle\caches\transforms-3\8f9220d66762372c6aa1e02e07b4f277\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+174-->[androidx.window:window:1.0.0] /Users/tonibote4/.gradle/caches/transforms-3/8f9220d66762372c6aa1e02e07b4f277/transformed/window-1.0.0/AndroidManifest.xml:30:13-37
 175    </application>
 176
 177</manifest>
