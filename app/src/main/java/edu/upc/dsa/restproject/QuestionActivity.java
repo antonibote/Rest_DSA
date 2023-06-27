@@ -84,7 +84,7 @@ public class QuestionActivity extends AppCompatActivity{
     }
 
     public void Return(View view) {
-        Intent intentDashBoard = new Intent(QuestionActivity.this, FaqActivity.class);
+        Intent intentDashBoard = new Intent(QuestionActivity.this, MainActivity.class);
         QuestionActivity.this.startActivity(intentDashBoard);
     }
 
